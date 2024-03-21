@@ -1,0 +1,294 @@
+version: "3.8"
+services:
+  redis:
+    container_name: "Redis"
+    image: "redis:latest"
+    ports:
+    - target: 6379
+      published: 6379
+    volumes:
+      - redis-data:/data
+  rabbitMq:
+    container_name: "rabbitMq"
+    image: "rabbitmq:3-management"
+    environment:
+      RABBITMQ_DEFAULT_USER: "guest"
+      RABBITMQ_DEFAULT_PASS: "S0h1n"
+    ports:
+    - target: 5672
+      published: 5672
+    - target: 15672
+      published: 15672
+    volumes:
+      - rabbitmq-data:/var/lib/rabbitmq
+  postgres:
+    container_name: "postgres"
+    image: "postgres:latest"
+    environment:
+      POSTGRES_PASSWORD: "K@rtal01.*"
+    ports:
+    - target: 5432
+      published: 5432
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+  identity-api:
+    image: "paros/identity-api:latest"
+    build:
+      context: .
+      dockerfile: src/Services/Identity/Authentication/Authentication.Api/Dockerfile
+    environment:
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
+      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__Redis: "redis:6379"
+      PartyModelApiClient: "https://partymodel-api"
+      ContactMechanismApiClient: "https://contactmechanism-api"
+      PositionApiClient: "https://position-api"
+      AuthorizationApiClient: "https://authorization-api"
+      RelationshipApiClient: "https://relationship-api"
+      IdentityCardApiClient: "https://identitycard-api"
+      CallBackUrl: "https://identity-api"
+      ASPNETCORE_URLS: "https://*:17205"
+      ASPNETCORE_HTTPS_PORT: "17205"
+      ASPNETCORE_Kestrel__Certificates__Default__Password: "consult gallstone crank endearing panda"
+      ASPNETCORE_Kestrel__Certificates__Default__Path: "localhost.pfx"
+    ports:
+    - target: 17205
+      published: 17205
+    depends_on:
+      - postgres
+      - redis
+  partymodel-api:
+    image: "paros/partymodel-api:latest"
+    build:
+      context: .
+      dockerfile: src/Services/Crm/PartyModel/PartyModel.Api/Dockerfile
+    environment:
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
+      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__Redis: "redis:6379"
+      ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
+      Microservice__Identity__Url: "https://identity-api:17205"
+      CallBackUrl: "https://partymodel-api"
+      ASPNETCORE_URLS: "https://*:17305"
+      ASPNETCORE_HTTPS_PORT: "17305"
+      ASPNETCORE_Kestrel__Certificates__Default__Password: "consult gallstone crank endearing panda"
+      ASPNETCORE_Kestrel__Certificates__Default__Path: "sigortam1.teba.tech.pfx"
+    ports:
+    - target: 17305
+      published: 17305
+    depends_on: 
+      - postgres
+      - rabbitMq
+      - redis
+  contactmechanism-api:
+    image: "paros/contactmechanism-api:latest"
+    build:
+      context: .
+      dockerfile: src/Services/Crm/ContactMechanism/ContactMechanism.Api/Dockerfile
+    environment:
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
+      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__Redis: "redis:6379"
+      ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
+      Microservice__IdentityUrl: "https://identity-api:17205"
+      CallBackUrl: "https://contactmechanism-api"
+      ASPNETCORE_URLS: "https://*:17301"
+      ASPNETCORE_HTTPS_PORT: "17301"
+      ASPNETCORE_Kestrel__Certificates__Default__Password: "consult gallstone crank endearing panda"
+      ASPNETCORE_Kestrel__Certificates__Default__Path: "sigortam1.teba.tech.pfx"
+    ports:
+    - target: 17301
+      published: 17301
+    depends_on:
+      - postgres
+      - rabbitMq
+      - redis
+      - identity-api
+  relationship-api:
+    image: "paros/relationship-api:latest"
+    build:
+      context: .
+      dockerfile: src/Services/Crm/Relationship/Relationship.Api/Dockerfile
+    environment:
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true" 
+      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__Redis: "redis:6379"
+      ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
+      Microservice__IdentityUrl: "https://identity-api:17205"
+      CallBackUrl: "https://relationship-api"
+      ASPNETCORE_URLS: "https://*:17306"
+      ASPNETCORE_HTTPS_PORT: "17306"
+      ASPNETCORE_Kestrel__Certificates__Default__Password: "consult gallstone crank endearing panda"
+      ASPNETCORE_Kestrel__Certificates__Default__Path: "sigortam1.teba.tech.pfx"
+    ports:
+      - target: 17306
+        published: 17306
+    depends_on:
+      - postgres
+      - rabbitMq
+      - redis
+  identitycard-api:
+    image: "paros/identitycard-api:latest"
+    build:
+      context: .
+      dockerfile: src/Services/Crm/IdentityCard/IdentityCard.Api/Dockerfile
+    environment:
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true" 
+      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__Redis: "redis:6379"
+      ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
+      Microservice__IdentityUrl: "https://identity-api:17205"
+      CallBackUrl: "https://identitycard-api"
+      ASPNETCORE_URLS: "https://*:17303"
+      ASPNETCORE_HTTPS_PORT: "17303"
+      ASPNETCORE_Kestrel__Certificates__Default__Password: "consult gallstone crank endearing panda"
+      ASPNETCORE_Kestrel__Certificates__Default__Path: "sigortam1.teba.tech.pfx"
+    ports:
+      - target: 17303
+        published: 17303
+    depends_on:
+      - postgres
+      - rabbitMq
+      - redis
+  position-api:
+    image: "paros/position-api:latest"
+    build:
+      context: .
+      dockerfile: src/Services/Hr/Position/Position.Api/Dockerfile
+    environment:
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
+      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__Redis: "redis:6379"
+      ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
+      Microservice__IdentityUrl: "https://identity-api:17205"
+      CallBackUrl: "https://position-api"
+      ASPNETCORE_URLS: "https://*:17302"
+      ASPNETCORE_HTTPS_PORT: "17302"
+      ASPNETCORE_Kestrel__Certificates__Default__Password: "consult gallstone crank endearing panda"
+      ASPNETCORE_Kestrel__Certificates__Default__Path: "sigortam1.teba.tech.pfx"
+    ports:
+    - target: 17302 
+      published: 17302
+    depends_on:
+      - postgres
+      - rabbitMq
+      - redis
+  authorization-api:
+    image: "paros/authorization-api:latest"
+    build:
+      context: .
+      dockerfile: src/Services/Identity/Authorization/Authorization.Api/Dockerfile
+    environment:
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
+      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__Redis: "redis:6379"
+      ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
+      Microservice__IdentityUrl: "https://identity-api:17205"
+      CallBackUrl: "https://authorization-api"
+      ASPNETCORE_URLS: "https://*:17307"
+      ASPNETCORE_HTTPS_PORT: "17307"
+      ASPNETCORE_Kestrel__Certificates__Default__Password: "consult gallstone crank endearing panda"
+      ASPNETCORE_Kestrel__Certificates__Default__Path: "sigortam1.teba.tech.pfx"
+    ports:
+    - target: 17307
+      published: 17307      
+    depends_on:
+      - postgres
+      - rabbitMq
+      - redis
+  lead-api:
+    image: "paros/lead-api:latest"
+    build:
+      context: .
+      dockerfile: src/Services/Crm/Lead/Lead.Api/Dockerfile
+    environment:
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
+      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__Redis: "redis:6379"
+      ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
+      Microservice__IdentityUrl: "https://identity-api:17205"
+      CallBackUrl: "https://lead-api"
+      ASPNETCORE_URLS: "https://*:17308"
+      ASPNETCORE_HTTPS_PORT: "17308"
+      ASPNETCORE_Kestrel__Certificates__Default__Password: "consult gallstone crank endearing panda"
+      ASPNETCORE_Kestrel__Certificates__Default__Path: "sigortam1.teba.tech.pfx"
+    ports:
+      - target: 17308
+        published: 17308
+    depends_on:
+      - postgres
+      - rabbitMq
+      - redis
+  crmaggregator-api:
+    image: "paros/crmaggregator-api:latest"
+    build:
+      context: .
+      dockerfile: src/Services/Crm/CrmAggregator/CrmAggregator.Api/Dockerfile
+    environment:
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
+      ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
+      Microservice__IdentityUrl: "https://identity-api:17205"
+      CallBackUrl: "https://crmaggregator-api"
+      ASPNETCORE_URLS: "https://*:17309"
+      ASPNETCORE_HTTPS_PORT: "17309"
+      ASPNETCORE_Kestrel__Certificates__Default__Password: "consult gallstone crank endearing panda"
+      ASPNETCORE_Kestrel__Certificates__Default__Path: "sigortam1.teba.tech.pfx"
+      PartymodelApi: "https://_https.host.docker.internal:17305"
+      ContactmechanismApi: "https://_https.host.docker.internal:17301"
+      
+    ports:
+      - target: 17309
+        published: 17309
+    depends_on:
+      - rabbitMq
+      - redis
+  backofficeapp-bff:
+    image: "paros/backofficeapp-bff:latest"
+    build:
+      context: .
+      dockerfile: src/ApiGateways/BackOffice.Bff/Dockerfile
+    environment:
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
+      OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
+      CallBackUrl: "https://backofficeapp-bff"
+      services__partymodel-api__0: "https://partymodel-api:17305"
+      services__contactmechanism-api__0: "https://contactmechanism-api:17301"
+      services__relationship-api__0: "https://relationship-api:17306"
+      services__identitycard-api__0: "https://identitycard-api:17303"
+      services__position-api__0: "https://position-api:17302"
+      services__authorization-api__0: "https://authorization-api:17307"
+      services__identity-api__0: "https://identity-api:17205"
+      services__lead-api__0: "https://lead-api:17308"
+      services__crmaggregator-api__0: "https://crmaggregator-api:17309"
+      ASPNETCORE_URLS: "https://+:17204"
+      ASPNETCORE_HTTPS_PORT: "17204"
+      ASPNETCORE_Kestrel__Certificates__Default__Password: "consult gallstone crank endearing panda"
+      ASPNETCORE_Kestrel__Certificates__Default__Path: "localhost.pfx"
+    ports:
+    - target: 17204
+      published: 17204
+    depends_on: 
+      - authorization-api
+      - contactmechanism-api
+      - identitycard-api
+      - partymodel-api
+      - position-api
+      - relationship-api
+      - lead-api
+      - crmaggregator-api
+volumes:
+  redis-data:
+    external: false
+  rabbitmq-data:
+    external: false
+  postgres-data:
+    external: false

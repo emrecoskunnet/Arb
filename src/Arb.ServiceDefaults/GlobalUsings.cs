@@ -1,0 +1,13 @@
+﻿global using Microsoft.AspNetCore.Builder;
+global using Microsoft.AspNetCore.Diagnostics.HealthChecks;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Diagnostics.HealthChecks;
+global using Microsoft.Extensions.Logging;
+global using OpenTelemetry.Logs;
+global using OpenTelemetry.Metrics;
+global using OpenTelemetry.Trace;
+global using Paros.ServiceDefaults;
+global using TebaTech.Infrastructure.Caching;
+global using TebaTech.Infrastructure.DataAccess;
+global using TebaTech.Infrastructure.Localization;
+global using TebaTech.Infrastructure.Transporting.Grpc;
