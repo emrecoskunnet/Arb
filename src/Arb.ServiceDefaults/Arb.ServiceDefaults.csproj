@@ -10,8 +10,7 @@
 
   <ItemGroup>
     <FrameworkReference Include="Microsoft.AspNetCore.App"/> 
-    <PackageReference Include="Aspire.StackExchange.Redis.DistributedCaching"/>
-    <PackageReference Include="TebaTech.Infrastructure"/>
+    <PackageReference Include="Aspire.StackExchange.Redis.DistributedCaching"/> 
     <PackageReference Include="Microsoft.AspNetCore.OpenApi"/>
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer"/>
     <PackageReference Include="Microsoft.Extensions.Http.Resilience"/>
@@ -25,6 +24,10 @@
     <PackageReference Include="OpenTelemetry.Instrumentation.Http"/>
     <PackageReference Include="OpenTelemetry.Instrumentation.Runtime"/>
     <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens"/>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\fw\Infrastructure\Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,11 +1,11 @@
 using Grpc.Core;
-using TebaTech.SharedKernel;
-using TebaTech.SharedKernel.Exceptions;
-using TebaTech.SharedKernel.Interfaces;
+using ArbTech.SharedKernel;
+using ArbTech.SharedKernel.Exceptions;
+using ArbTech.SharedKernel.Interfaces;
 using Status = Grpc.Core.Status;
 using StatusCode = Grpc.Core.StatusCode;
 
-namespace Paros.Infrastructure.Extensions;
+namespace Arb.Infrastructure.Extensions;
 
 public static class ToRpcExceptionExtensions
 {

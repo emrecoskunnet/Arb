@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>ArbTech.SharedKernel</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>0.1.8.2-preview.33</Version>
+        <Title>ArbTech Business Framework Shared Kernel</Title>
+        <Authors>ArbTech</Authors>
+        <Description>Base Entity, Repository, App Services etc..</Description>
+        <PackageProjectUrl>https://github.com/sigortambirdev/teba-core</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/sigortambirdev/teba-core</RepositoryUrl>
+        <PackageTags>ArbTech Shared Kernel</PackageTags>
+        <PackageReleaseNotes>- changed IAppUserService
+- same from date values on savechanges
+- softdelete makes virtual
+- net 8</PackageReleaseNotes>
+        <AssemblyVersion>0.1.8.2033</AssemblyVersion>
+        <PackageId>ArbTech.SharedKernel</PackageId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Ardalis.GuardClauses" />
+        <PackageReference Include="Ardalis.SmartEnum"/>
+        <PackageReference Include="Ardalis.Specification" />
+        <PackageReference Include="MediatR.Contracts"  />
+        <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" />
+        <PackageReference Include="Microsoft.Extensions.Options" />
+    </ItemGroup>
+</Project>

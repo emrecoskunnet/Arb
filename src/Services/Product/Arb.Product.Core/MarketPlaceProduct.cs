@@ -1,5 +1,5 @@
 using Ardalis.GuardClauses;
-using TebaTech.SharedKernel;
+using ArbTech.SharedKernel;
 
 namespace Arb.Product.Core;
 

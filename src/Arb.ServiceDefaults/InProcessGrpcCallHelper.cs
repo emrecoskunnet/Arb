@@ -1,7 +1,7 @@
 ﻿using System.Net.Security;
 using System.Security.Cryptography.X509Certificates;
 
-namespace Paros.ServiceDefaults;
+namespace Arb.ServiceDefaults;
 
 public static class InProcessGrpcCallHelper
 {

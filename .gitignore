@@ -497,5 +497,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-/paros.sln.DotSettings
+/Arb.sln.DotSettings
 /src/Web/BackOffice/dist-dev/

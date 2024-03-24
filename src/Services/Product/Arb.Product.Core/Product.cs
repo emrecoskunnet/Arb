@@ -1,7 +1,7 @@
 using Arb.Product.Core.Enums;
 using Ardalis.GuardClauses;
-using TebaTech.SharedKernel;
-using TebaTech.SharedKernel.Extensions;
+using ArbTech.SharedKernel;
+using ArbTech.SharedKernel.Extensions;
 
 namespace Arb.Product.Core;
 

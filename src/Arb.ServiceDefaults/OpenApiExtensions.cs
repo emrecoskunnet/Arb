@@ -8,7 +8,7 @@ using Microsoft.OpenApi.Interfaces;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.SwaggerGen;
 
-namespace Paros.ServiceDefaults;
+namespace Arb.ServiceDefaults;
 
 public static class OpenApiExtensions
 {
@@ -28,7 +28,7 @@ public static class OpenApiExtensions
         {
             /// {
             //   "Microservice": {
-            //     "ClientId": "TebaTech-crm-party-model"
+            //     "ClientId": "ArbTech-crm-party-model"
             //     "ApplicationName": "Party Model"
             //    }
             /// }
@@ -127,7 +127,7 @@ public static class OpenApiExtensions
             // {
             //   "Microservice": {
             //     "IdentityUrl": "http://identity",
-            //     "ClientId": "TebaTech-crm-party-model"
+            //     "ClientId": "ArbTech-crm-party-model"
             //     "ApplicationName": "Party Model"
             //    }
             // }

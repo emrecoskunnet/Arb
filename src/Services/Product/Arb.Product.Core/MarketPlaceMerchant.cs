@@ -1,17 +1,17 @@
 ﻿using Ardalis.GuardClauses;
-using TebaTech.SharedKernel;
+using ArbTech.SharedKernel;
 
 namespace Arb.Product.Core;
 
-public class MarketPlaceSeller : BaseEntity
+public class MarketPlaceMerchant : BaseEntity
 {
 #pragma warning disable CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
     // ReSharper disable once UnusedMember.Local
-    private MarketPlaceSeller()
+    private MarketPlaceMerchant()
 #pragma warning restore CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
     {
     }
-    public MarketPlaceSeller(int marketPlaceId, string sellerName, string? frontStoreLink)
+    public MarketPlaceMerchant(int marketPlaceId, string sellerName, string? frontStoreLink)
     {
         Guard.Against.NegativeOrZero(marketPlaceId);
         Guard.Against.NullOrWhiteSpace(sellerName);

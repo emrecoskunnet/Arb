@@ -32,14 +32,14 @@ services:
     volumes:
       - postgres-data:/var/lib/postgresql/data
   identity-api:
-    image: "paros/identity-api:latest"
+    image: "Arb/identity-api:latest"
     build:
       context: .
       dockerfile: src/Services/Identity/Authentication/Authentication.Api/Dockerfile
     environment:
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
-      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__ArbDB: "Host=postgres;Database=ArbDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
       ConnectionStrings__Redis: "redis:6379"
       PartyModelApiClient: "https://partymodel-api"
       ContactMechanismApiClient: "https://contactmechanism-api"
@@ -59,14 +59,14 @@ services:
       - postgres
       - redis
   partymodel-api:
-    image: "paros/partymodel-api:latest"
+    image: "Arb/partymodel-api:latest"
     build:
       context: .
       dockerfile: src/Services/Crm/PartyModel/PartyModel.Api/Dockerfile
     environment:
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
-      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__ArbDB: "Host=postgres;Database=ArbDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
       ConnectionStrings__Redis: "redis:6379"
       ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
       Microservice__Identity__Url: "https://identity-api:17205"
@@ -83,14 +83,14 @@ services:
       - rabbitMq
       - redis
   contactmechanism-api:
-    image: "paros/contactmechanism-api:latest"
+    image: "Arb/contactmechanism-api:latest"
     build:
       context: .
       dockerfile: src/Services/Crm/ContactMechanism/ContactMechanism.Api/Dockerfile
     environment:
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
-      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__ArbDB: "Host=postgres;Database=ArbDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
       ConnectionStrings__Redis: "redis:6379"
       ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
       Microservice__IdentityUrl: "https://identity-api:17205"
@@ -108,14 +108,14 @@ services:
       - redis
       - identity-api
   relationship-api:
-    image: "paros/relationship-api:latest"
+    image: "Arb/relationship-api:latest"
     build:
       context: .
       dockerfile: src/Services/Crm/Relationship/Relationship.Api/Dockerfile
     environment:
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true" 
-      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__ArbDB: "Host=postgres;Database=ArbDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
       ConnectionStrings__Redis: "redis:6379"
       ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
       Microservice__IdentityUrl: "https://identity-api:17205"
@@ -132,14 +132,14 @@ services:
       - rabbitMq
       - redis
   identitycard-api:
-    image: "paros/identitycard-api:latest"
+    image: "Arb/identitycard-api:latest"
     build:
       context: .
       dockerfile: src/Services/Crm/IdentityCard/IdentityCard.Api/Dockerfile
     environment:
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true" 
-      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__ArbDB: "Host=postgres;Database=ArbDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
       ConnectionStrings__Redis: "redis:6379"
       ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
       Microservice__IdentityUrl: "https://identity-api:17205"
@@ -156,14 +156,14 @@ services:
       - rabbitMq
       - redis
   position-api:
-    image: "paros/position-api:latest"
+    image: "Arb/position-api:latest"
     build:
       context: .
       dockerfile: src/Services/Hr/Position/Position.Api/Dockerfile
     environment:
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
-      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__ArbDB: "Host=postgres;Database=ArbDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
       ConnectionStrings__Redis: "redis:6379"
       ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
       Microservice__IdentityUrl: "https://identity-api:17205"
@@ -180,14 +180,14 @@ services:
       - rabbitMq
       - redis
   authorization-api:
-    image: "paros/authorization-api:latest"
+    image: "Arb/authorization-api:latest"
     build:
       context: .
       dockerfile: src/Services/Identity/Authorization/Authorization.Api/Dockerfile
     environment:
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
-      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__ArbDB: "Host=postgres;Database=ArbDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
       ConnectionStrings__Redis: "redis:6379"
       ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
       Microservice__IdentityUrl: "https://identity-api:17205"
@@ -204,14 +204,14 @@ services:
       - rabbitMq
       - redis
   lead-api:
-    image: "paros/lead-api:latest"
+    image: "Arb/lead-api:latest"
     build:
       context: .
       dockerfile: src/Services/Crm/Lead/Lead.Api/Dockerfile
     environment:
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EXCEPTION_LOG_ATTRIBUTES: "true"
       OTEL_DOTNET_EXPERIMENTAL_OTLP_EMIT_EVENT_LOG_ATTRIBUTES: "true"
-      ConnectionStrings__ParosDB: "Host=postgres;Database=ParosDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
+      ConnectionStrings__ArbDB: "Host=postgres;Database=ArbDB;Username=postgres;Password=K@rtal01.*;Enlist=true"
       ConnectionStrings__Redis: "redis:6379"
       ConnectionStrings__EventBus: "amqp://guest:S0h1n@rabbitMq:15672"
       Microservice__IdentityUrl: "https://identity-api:17205"
@@ -228,7 +228,7 @@ services:
       - rabbitMq
       - redis
   crmaggregator-api:
-    image: "paros/crmaggregator-api:latest"
+    image: "Arb/crmaggregator-api:latest"
     build:
       context: .
       dockerfile: src/Services/Crm/CrmAggregator/CrmAggregator.Api/Dockerfile
@@ -252,7 +252,7 @@ services:
       - rabbitMq
       - redis
   backofficeapp-bff:
-    image: "paros/backofficeapp-bff:latest"
+    image: "Arb/backofficeapp-bff:latest"
     build:
       context: .
       dockerfile: src/ApiGateways/BackOffice.Bff/Dockerfile

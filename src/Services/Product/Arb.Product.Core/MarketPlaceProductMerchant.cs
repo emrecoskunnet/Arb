@@ -1,15 +1,15 @@
 using Ardalis.GuardClauses;
-using TebaTech.SharedKernel;
+using ArbTech.SharedKernel;
 
 namespace Arb.Product.Core;
 
-public class MarketPlaceProductSeller : InsertOnlyBaseEntity
+public class MarketPlaceProductMerchant : InsertOnlyBaseEntity
 {
     // ReSharper disable once UnusedMember.Local
-    private MarketPlaceProductSeller()
+    private MarketPlaceProductMerchant()
     {
     }
-    public MarketPlaceProductSeller(int marketPlaceProductSaleId, int marketPlaceSellerId, bool buyBox, decimal price, int? stock, int? sellerTotalSaleCount)
+    public MarketPlaceProductMerchant(int marketPlaceProductSaleId, int marketPlaceSellerId, bool buyBox, decimal price, int? stock, int? sellerTotalSaleCount)
     {
         Guard.Against.NegativeOrZero(marketPlaceProductSaleId);
         Guard.Against.NegativeOrZero(marketPlaceSellerId);

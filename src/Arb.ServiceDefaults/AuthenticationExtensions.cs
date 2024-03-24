@@ -6,7 +6,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.JsonWebTokens;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Paros.ServiceDefaults;
+namespace Arb.ServiceDefaults;
 
 public static class AuthenticationExtensions
 {
@@ -18,7 +18,7 @@ public static class AuthenticationExtensions
         // {
         //   "Microservice": {
         //     "IdentityUrl": "http://identity-api",
-        //     "ClientId": "TebaTech-crm-party-model"
+        //     "ClientId": "ArbTech-crm-party-model"
         //    }
         // }
 

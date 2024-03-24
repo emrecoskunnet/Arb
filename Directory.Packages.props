@@ -12,8 +12,6 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- Version together with Aspire -->
-    <PackageVersion Include="Ardalis.GuardClauses" Version="4.2.0" />
-    <PackageVersion Include="Ardalis.SmartEnum" Version="7.0.0" />
     <PackageVersion Include="Aspire.Hosting" Version="$(AspireVersion)" />
     <PackageVersion Include="Aspire.Npgsql" Version="$(AspireVersion)" />
     <PackageVersion Include="Aspire.Npgsql.EntityFrameworkCore.PostgreSQL" Version="$(AspireVersion)" />
@@ -36,10 +34,12 @@
     <PackageVersion Include="Microsoft.AspNetCore.TestHost" Version="$(AspnetVersion)" />
     <PackageVersion Include="Microsoft.Extensions.Identity.Stores" Version="$(AspnetVersion)" />
     <PackageVersion Include="Microsoft.Extensions.Http.Resilience" Version="$(MicrosoftExtensionsVersion)" />
+    <PackageVersion Include="Microsoft.Extensions.Logging.Abstractions" Version="$(MicrosoftExtensionsVersion)" />
     <!-- Version together with EF -->
     <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="$(EfVersion)" />
     <PackageVersion Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="$(EfVersion)" />
     <PackageVersion Include="Microsoft.EntityFrameworkCore.Tools" Version="$(EfVersion)" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.Relational" Version="$(EfVersion)" />
     <PackageVersion Include="Microsoft.EntityFrameworkCore.Design" Version="$(EfVersion)" PrivateAssets="All" />
     <PackageVersion Include="Microsoft.EntityFrameworkCore.Sqlite" Version="$(EfVersion)" />
     <PackageVersion Include="NSubstitute" Version="5.1.0" />
@@ -48,9 +48,6 @@
     <PackageVersion Include="Pgvector.EntityFrameworkCore" Version="0.2.0-rc.1" />
     <PackageVersion Include="Selenium.WebDriver" Version="4.18.1" />
     <PackageVersion Include="SeleniumExtras.WaitHelpers" Version="1.0.2" />
-    <!-- Business Framework -->
-    <PackageVersion Include="TebaTech.Infrastructure" Version="$(BusinessFrameworkVersion)" />
-    <PackageVersion Include="TebaTech.SharedKernel" Version="$(BusinessFrameworkVersion)" />
     <!-- Version together with runtime -->
     <PackageVersion Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="$(MicrosoftExtensionsVersion)" />
     <PackageVersion Include="Microsoft.Extensions.Options" Version="$(RuntimeVersion)" />
@@ -89,20 +86,40 @@
     <PackageVersion Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.0-rc.1.23461.3" />
     <!-- Grpc -->
     <PackageVersion Include="Grpc.AspNetCore" Version="$(GrpcVersion)" />
+    <PackageVersion Include="Grpc.AspNetCore.Server" Version="$(GrpcVersion)" />
+    <PackageVersion Include="Grpc.AspNetCore.Server.Reflection" Version="$(GrpcVersion)" />
+    <PackageVersion Include="Grpc.AspNetCore.Web" Version="$(GrpcVersion)" />
     <PackageVersion Include="Grpc.AspNetCore.Server.ClientFactory" Version="$(GrpcVersion)" />
     <PackageVersion Include="Grpc.Tools" Version="$(GrpcVersion)" PrivateAssets="All" />
-    <PackageVersion Include="Microsoft.AspNetCore.Grpc.Swagger" Version="0.8.1" />
+    <PackageVersion Include="Microsoft.AspNetCore.Grpc.Swagger" Version="0.8.3" />
+    <PackageVersion Include="Microsoft.AspNetCore.Grpc.JsonTranscoding" Version="8.0.3" />
     <PackageVersion Include="Google.Protobuf" Version="3.25.2" />
+    <!-- Ardalis -->
+    <PackageVersion Include="Ardalis.GuardClauses" Version="4.5.0" />
+    <PackageVersion Include="Ardalis.SmartEnum" Version="8.0.0" />
+    <PackageVersion Include="Ardalis.SmartEnum.EFCore" Version="8.0.0" />
+    <PackageVersion Include="Ardalis.Specification" Version="8.0.0" />
+    <PackageVersion Include="Ardalis.Specification.EntityFrameworkCore" Version="8.0.0" />
+    <!-- Quartz -->
+    <PackageVersion Include="Quartz" Version="3.8.1" />
+    <PackageVersion Include="Quartz.Extensions.DependencyInjection" Version="3.8.1" />
+    <PackageVersion Include="Quartz.Extensions.Hosting" Version="3.8.1" />
+    <PackageVersion Include="Quartz.Plugins.TimeZoneConverter" Version="3.8.1" />
+    <PackageVersion Include="Quartz.Serialization.Json" Version="3.8.1" />
+    <!-- Open Api -->
+    <PackageVersion Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageVersion Include="Swashbuckle.AspNetCore.ReDoc" Version="6.5.0" />
+    <PackageVersion Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+    <PackageVersion Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" />
     <!-- Miscellaneous -->
     <PackageVersion Include="Automapper" Version="12.0.1" />
     <PackageVersion Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
     <PackageVersion Include="Dapper" Version="2.0.151" />
     <PackageVersion Include="FluentValidation.AspNetCore" Version="11.3.0" />
     <PackageVersion Include="MediatR" Version="12.2.0" />
+    <PackageVersion Include="MediatR.Contracts" Version="2.0.1" />
     <PackageVersion Include="Microsoft.Web.LibraryManager.Build" Version="2.1.175" />
     <PackageVersion Include="Polly" Version="8.2.0" />
-    <PackageVersion Include="Swashbuckle.AspNetCore" Version="6.5.0" />
-    <PackageVersion Include="Swashbuckle.AspNetCore.ReDoc" Version="6.5.0" />
     <PackageVersion Include="System.Reflection.TypeExtensions" Version="4.7.0" />
     <PackageVersion Include="Yarp.ReverseProxy" Version="2.1.0" />
     <PackageVersion Include="HtmlAgilityPack" Version="1.11.59" />

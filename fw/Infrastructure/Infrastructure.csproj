@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>ArbTech.Infrastructure</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>0.1.8.2-preview.33</Version>
+        <Title>Teba Tech Infrastructure</Title>
+        <Description>Teba Tech business framework technology integrations, BaseRepository, Localization, Logging, Messaging, MicroService Extensions etc..</Description>
+        <PackageProjectUrl>https://github.com/sigortambirdev/teba-core</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/sigortambirdev/teba-core</RepositoryUrl>
+        <PackageTags>ArbTech Infrastructure</PackageTags>
+        <PackageReleaseNotes>- Changed default cache behaviour
+- GrpcInterceptor sets HttpContextAccosor.HttpContext if nulls
+- User service methods require a 'username' parameter.
+- net 8</PackageReleaseNotes>
+        <Authors>Teba Tech</Authors>
+        <AssemblyVersion>0.1.8.2033</AssemblyVersion>
+        <PackageId>ArbTech.Infrastructure</PackageId>
+    </PropertyGroup>
+    <ItemGroup>
+        <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="..\SharedKernel\SharedKernel.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="Ardalis.SmartEnum.EFCore"/>
+        <PackageReference Include="Ardalis.Specification.EntityFrameworkCore"/>
+        <PackageReference Include="Grpc.AspNetCore.Web"/>
+        <PackageReference Include="MediatR"/>
+
+        <PackageReference Include="Microsoft.EntityFrameworkCore"/>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Relational"/>
+        <PackageReference Include="Microsoft.Extensions.Logging.Abstractions"/>
+        <PackageReference Include="Grpc.AspNetCore.Server"/>
+
+        <PackageReference Include="Quartz"/>
+        <PackageReference Include="Quartz.Extensions.DependencyInjection"/>
+        <PackageReference Include="Quartz.Extensions.Hosting"/>
+        <PackageReference Include="Quartz.Plugins.TimeZoneConverter"/>
+        <PackageReference Include="Quartz.Serialization.Json"/>
+
+
+        <PackageReference Include="Swashbuckle.AspNetCore"/>
+        <PackageReference Include="Swashbuckle.AspNetCore.Annotations"/>
+        <PackageReference Include="Swashbuckle.AspNetCore.ReDoc"/>
+        <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen"/>
+
+        <PackageReference Include="Grpc.AspNetCore"/>
+        <PackageReference Include="Grpc.AspNetCore.Server.Reflection" />
+        <PackageReference Include="Microsoft.AspNetCore.Grpc.JsonTranscoding"/>
+        <PackageReference Include="Microsoft.AspNetCore.Grpc.Swagger" />
+
+        <PackageReference Include="Aspire.RabbitMQ.Client"/>
+        <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions"/>
+    </ItemGroup>
+</Project>
