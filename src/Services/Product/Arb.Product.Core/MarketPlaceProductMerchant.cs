@@ -9,26 +9,26 @@ public class MarketPlaceProductMerchant : InsertOnlyBaseEntity
     private MarketPlaceProductMerchant()
     {
     }
-    public MarketPlaceProductMerchant(int marketPlaceProductSaleId, int marketPlaceSellerId, bool buyBox, decimal price, int? stock, int? sellerTotalSaleCount)
+    public MarketPlaceProductMerchant(int marketPlaceProductSaleId, int marketPlaceMerchantId, bool buyBox, decimal price, int? stock, int? sellerTotalSaleCount)
     {
         Guard.Against.NegativeOrZero(marketPlaceProductSaleId);
-        Guard.Against.NegativeOrZero(marketPlaceSellerId);
+        Guard.Against.NegativeOrZero(marketPlaceMerchantId);
         Guard.Against.NegativeOrZero(price);
         
         MarketPlaceProductSaleId = marketPlaceProductSaleId;
-        MarketPlaceSellerId = marketPlaceSellerId;
+        MarketPlaceMerchantId = marketPlaceMerchantId;
         BuyBox = buyBox;
         Price = price;
         Stock = stock;
-        SellerTotalSaleCount = sellerTotalSaleCount;
+        MerchantTotalSaleCount = sellerTotalSaleCount;
     }
     public int MarketPlaceProductSaleId { get; private set; }
-    public int MarketPlaceSellerId{ get; private set; }
+    public int MarketPlaceMerchantId{ get; private set; }
     
     public bool BuyBox{ get; private set; }
     public decimal Price { get; private set; }
     public int? Stock { get; private set; }
     
-    public int? SellerTotalSaleCount { get; private set; }
+    public int? MerchantTotalSaleCount { get; private set; }
     
 }

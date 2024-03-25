@@ -17,12 +17,12 @@ public class MarketPlaceMerchant : BaseEntity
         Guard.Against.NullOrWhiteSpace(sellerName);
             
         MarketPlaceId = marketPlaceId;
-        SellerName = sellerName;
+        MerchantName = sellerName;
         FrontStoreLink = frontStoreLink;
     }
     
     public int MarketPlaceId { get; private set; }
-    public string SellerName { get; private set; }
+    public string MerchantName { get; private set; }
     public string? FrontStoreLink{ get; private set; }
     
 }

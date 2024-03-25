@@ -9,7 +9,7 @@ public class MarketPlaceProductSales : InsertOnlyBaseEntity
     private MarketPlaceProductSales()
     {
     }
-    public MarketPlaceProductSales(int marketPlaceProductId, int categorySalesRank, int mainCategorySalesRank, decimal buyBox, int? buyBoxStock, int? buyBoxProductSellerId, int? periodSalesCount)
+    public MarketPlaceProductSales(int marketPlaceProductId, int categorySalesRank, int mainCategorySalesRank, decimal buyBox, int? buyBoxStock, int? buyBoxProductMerchantId, int? periodSalesCount)
     {
         Guard.Against.NegativeOrZero(marketPlaceProductId);
         Guard.Against.NegativeOrZero(categorySalesRank);
@@ -21,7 +21,7 @@ public class MarketPlaceProductSales : InsertOnlyBaseEntity
         MainCategorySalesRank = mainCategorySalesRank;
         BuyBox = buyBox;
         BuyBoxStock = buyBoxStock;
-        BuyBoxProductSellerId = buyBoxProductSellerId;
+        BuyBoxProductMerchantId = buyBoxProductMerchantId;
         PeriodSalesCount = periodSalesCount;
     }
     public int MarketPlaceProductId { get; private set; }
@@ -31,7 +31,7 @@ public class MarketPlaceProductSales : InsertOnlyBaseEntity
     
     public decimal BuyBox { get; private set; }
     public int? BuyBoxStock { get; private set; }
-    public int? BuyBoxProductSellerId  { get; private set; }
+    public int? BuyBoxProductMerchantId  { get; private set; }
     
     public int? PeriodSalesCount{ get; private set; }
      

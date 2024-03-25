@@ -1,0 +1,5553 @@
+{
+  "product": {
+    "attributes": [
+      {
+        "key": {
+          "name": "Tip",
+          "id": 34
+        },
+        "value": {
+          "name": "Sıvı",
+          "id": 1047
+        },
+        "starred": false,
+        "description": "",
+        "mediaUrls": []
+      }
+    ],
+    "selectedVasAttributes": [],
+    "alternativeVariants": [],
+    "variants": [
+      {
+        "attributeId": 0,
+        "attributeName": "",
+        "attributeType": "",
+        "attributeValue": "",
+        "stamps": [
+          {
+            "type": 1,
+            "text": "KARGO BEDAVA"
+          }
+        ],
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "303 TL",
+            "value": 303
+          },
+          "sellingPrice": {
+            "text": "303 TL",
+            "value": 303
+          },
+          "originalPrice": {
+            "text": "303 TL",
+            "value": 303
+          },
+          "currency": "TRY"
+        },
+        "fulfilmentType": "mp",
+        "attributeBeautifiedValue": "",
+        "isWinner": true,
+        "listingId": "ffb12887b012e5a710a8fd69229398c1",
+        "stock": null,
+        "sellable": true,
+        "availableForClaim": true,
+        "barcode": "868186320001511",
+        "itemNumber": 92881186,
+        "discountedPriceInfo": "",
+        "hasCollectable": false,
+        "unitInfo": {
+          "unitPrice": false,
+          "unitPriceText": false
+        },
+        "rushDeliveryMerchantListingExist": false,
+        "lowerPriceMerchantListingExist": false,
+        "fastDeliveryOptions": [],
+        "groupTagIds": []
+      }
+    ],
+    "otherMerchants": [
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=360038",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=360038",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "316,15 TL",
+            "value": 316.15
+          },
+          "sellingPrice": {
+            "text": "316,15 TL",
+            "value": 316.15
+          },
+          "originalPrice": {
+            "text": "316,15 TL",
+            "value": 316.15
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "merchantMarkers": [],
+          "id": 360038,
+          "name": "Fiyera",
+          "officialName": "ONUR BARAN YALÇIN",
+          "cityName": "İstanbul",
+          "registeredEmailAddress": "onurbaran.yalcin@hs01.kep.tr",
+          "taxNumber": "9310605844",
+          "sellerScore": 8.8,
+          "sellerScoreColor": "08B449",
+          "deliveryProviderName": "Fiyera",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false,
+          "bulkSalesLimit": 300
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=613181",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=613181",
+        "promotions": [
+          {
+            "promotionRemainingTime": "",
+            "isOnlyAz": false,
+            "isLimitSatisfied": true,
+            "type": 1,
+            "text": "400 TL'ye 50 TL İndirim",
+            "id": 13079353,
+            "promotionDiscountType": "DiscountOnBasket",
+            "link": "/sr?prm=13079353"
+          }
+        ],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "425 TL",
+            "value": 425
+          },
+          "sellingPrice": {
+            "text": "425 TL",
+            "value": 425
+          },
+          "originalPrice": {
+            "text": "425 TL",
+            "value": 425
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            },
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/basarili_satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/ios_basarili_satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "merchantMarkers": [],
+          "id": 613181,
+          "name": "YİĞİT SAĞLIK ÜRÜNLERİ",
+          "officialName": "MELİS CAN ÇELİK",
+          "cityName": "Hatay",
+          "centralRegistrationSystemNumber": "3828744248000011",
+          "registeredEmailAddress": "melis.cancelik@hs01.kep.tr",
+          "taxNumber": "1970589583",
+          "sellerScore": 9.6,
+          "sellerScoreColor": "049B24",
+          "deliveryProviderName": "YİĞİT SAĞLIK ÜRÜNLERİ",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false,
+          "bulkSalesLimit": 20
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=806219",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=806219",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "326 TL",
+            "value": 326
+          },
+          "sellingPrice": {
+            "text": "326 TL",
+            "value": 326
+          },
+          "originalPrice": {
+            "text": "326 TL",
+            "value": 326
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [],
+          "merchantMarkers": [],
+          "id": 806219,
+          "name": "Avi",
+          "officialName": "MUSTAFA FURKAN KUŞCU",
+          "cityName": "Adana",
+          "registeredEmailAddress": "mustafafurkan.kuscu@hs01.kep.tr",
+          "taxNumber": "5980901911",
+          "sellerScore": 9,
+          "sellerScoreColor": "049B24",
+          "deliveryProviderName": "Avi",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=675749",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=675749",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "320 TL",
+            "value": 320
+          },
+          "sellingPrice": {
+            "text": "320 TL",
+            "value": 320
+          },
+          "originalPrice": {
+            "text": "320 TL",
+            "value": 320
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [],
+          "merchantMarkers": [],
+          "id": 675749,
+          "name": "KOZVİT DEPO",
+          "officialName": "MUHAMMED YUSUF ŞAHİN",
+          "cityName": "İstanbul",
+          "centralRegistrationSystemNumber": "5280461718200001",
+          "registeredEmailAddress": "muhammedyusufshn@hs01.kep.tr",
+          "taxNumber": "7940710358",
+          "sellerScore": 8.2,
+          "sellerScoreColor": "3CCD7D",
+          "deliveryProviderName": "KOZVİT DEPO",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": false,
+          "deliveryDate": "16 - 22 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 3,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=231679",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=231679",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "339 TL",
+            "value": 339
+          },
+          "sellingPrice": {
+            "text": "339 TL",
+            "value": 339
+          },
+          "originalPrice": {
+            "text": "339 TL",
+            "value": 339
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "merchantMarkers": [],
+          "id": 231679,
+          "name": "cnnfarma",
+          "officialName": "CANAN KURTMAN",
+          "cityName": "İstanbul",
+          "registeredEmailAddress": "canan.kurtman@hs01.kep.tr",
+          "taxNumber": "5960455116",
+          "sellerScore": 9.6,
+          "sellerScoreColor": "049B24",
+          "deliveryProviderName": "cnnfarma",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=897870",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=897870",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "330 TL",
+            "value": 330
+          },
+          "sellingPrice": {
+            "text": "330 TL",
+            "value": 330
+          },
+          "originalPrice": {
+            "text": "350 TL",
+            "value": 350
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917,
+            1108
+          ],
+          "merchantBadges": [],
+          "merchantMarkers": [],
+          "id": 897870,
+          "name": "AHSEN ŞİFA",
+          "officialName": "AHSENİ ŞİFA MEDİKAL İTRİYAT KOZMETİK TEMİZLİK TARIM GIDA ÜRETİM HAY.İNŞ.İTH.İHR.TİC.VE SAN.LTD.ŞTİ.",
+          "cityName": "Bingöl",
+          "centralRegistrationSystemNumber": "0010220687400001",
+          "registeredEmailAddress": "ahsenisifa@hs09.kep.tr",
+          "taxNumber": "0102206874",
+          "sellerScore": 9,
+          "sellerScoreColor": "049B24",
+          "deliveryProviderName": "AHSEN ŞİFA",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": false,
+          "deliveryDate": "16 - 22 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 3,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=646009",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=646009",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "350 TL",
+            "value": 350
+          },
+          "sellingPrice": {
+            "text": "350 TL",
+            "value": 350
+          },
+          "originalPrice": {
+            "text": "350 TL",
+            "value": 350
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/basarili_satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/ios_basarili_satici.png",
+              "type": "BADGE"
+            },
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "merchantMarkers": [],
+          "id": 646009,
+          "name": "EczaVita",
+          "officialName": "ECZAVİTA MEDİKAL KOZMETİK TEMİZLİK GIDA İNŞAAT TEKSTİL OTOMOTİV İTHALAT İHRACAT SAN.VE TİC.LTD.ŞTİ.",
+          "cityName": "Bingöl",
+          "centralRegistrationSystemNumber": "0324104929100001",
+          "registeredEmailAddress": "eczavitamedikal@hs09.kep.tr",
+          "taxNumber": "3241049291",
+          "sellerScore": 9.6,
+          "sellerScoreColor": "049B24",
+          "deliveryProviderName": "EczaVita",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false,
+          "bulkSalesLimit": 50
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=552687",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=552687",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "349,90 TL",
+            "value": 349.9
+          },
+          "sellingPrice": {
+            "text": "349,90 TL",
+            "value": 349.9
+          },
+          "originalPrice": {
+            "text": "349,90 TL",
+            "value": 349.9
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [],
+          "merchantMarkers": [],
+          "id": 552687,
+          "name": "onlinEczane",
+          "officialName": "NORTHPHARMA GÜZELLİK SAĞLIK KOZMETİK SANAYİ LİMİTED ŞİRKETİ",
+          "cityName": "Kocaeli",
+          "centralRegistrationSystemNumber": "0632117171800001",
+          "registeredEmailAddress": "northpharma@hs01.kep.tr",
+          "taxNumber": "6321171718",
+          "sellerScore": 9.5,
+          "sellerScoreColor": "049B24",
+          "deliveryProviderName": "onlinEczane",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false,
+          "bulkSalesLimit": 120
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=688625",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=688625",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "349 TL",
+            "value": 349
+          },
+          "sellingPrice": {
+            "text": "349 TL",
+            "value": 349
+          },
+          "originalPrice": {
+            "text": "349 TL",
+            "value": 349
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [],
+          "merchantMarkers": [],
+          "id": 688625,
+          "name": "YÜCAZ",
+          "officialName": "BURAK UĞUR YILDIRIM",
+          "cityName": "Isparta",
+          "registeredEmailAddress": "burakugur.yildirim@hs01.kep.tr",
+          "taxNumber": "9540695781",
+          "sellerScore": 8.8,
+          "sellerScoreColor": "08B449",
+          "deliveryProviderName": "YÜCAZ",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": false,
+          "deliveryDate": "16 - 22 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 3,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=109331",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=109331",
+        "promotions": [
+          {
+            "promotionRemainingTime": "",
+            "isOnlyAz": false,
+            "isLimitSatisfied": false,
+            "type": 1,
+            "text": "2. Ürüne 40 TL İndirim",
+            "id": 13026363,
+            "promotionDiscountType": "TwoForOne",
+            "link": "/sr?prm=13026363"
+          }
+        ],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "354,86 TL",
+            "value": 354.86
+          },
+          "sellingPrice": {
+            "text": "354,86 TL",
+            "value": 354.86
+          },
+          "originalPrice": {
+            "text": "354,86 TL",
+            "value": 354.86
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            },
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/basarili_satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/ios_basarili_satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "merchantMarkers": [],
+          "id": 109331,
+          "name": "Mutlu Fiyatlar",
+          "officialName": "BUĞLEM İLAÇ MEDİKAL KOZMETİK İTHALAT İHRACAT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+          "cityName": "Antalya",
+          "centralRegistrationSystemNumber": "0188093268300001",
+          "registeredEmailAddress": "buglem.ilacmedikal@hs01.kep.tr",
+          "taxNumber": "1880932683",
+          "sellerScore": 8.9,
+          "sellerScoreColor": "08B449",
+          "deliveryProviderName": "Mutlu Fiyatlar",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=307501",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=307501",
+        "promotions": [
+          {
+            "promotionRemainingTime": "",
+            "isOnlyAz": false,
+            "isLimitSatisfied": false,
+            "type": 1,
+            "text": "2. Ürüne 15 TL İndirim",
+            "id": 7976365,
+            "promotionDiscountType": "TwoForOne",
+            "link": "/sr?prm=7976365"
+          }
+        ],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "350 TL",
+            "value": 350
+          },
+          "sellingPrice": {
+            "text": "350 TL",
+            "value": 350
+          },
+          "originalPrice": {
+            "text": "350 TL",
+            "value": 350
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [],
+          "merchantMarkers": [],
+          "id": 307501,
+          "name": "SAĞLIKLIGÜNLER",
+          "officialName": "MUSTAFA ÇAĞRI POLAT",
+          "cityName": "Osmaniye",
+          "centralRegistrationSystemNumber": "3150152551800001",
+          "registeredEmailAddress": "mustafacagri.polat@hs01.kep.tr",
+          "taxNumber": "7320981853",
+          "sellerScore": 8.2,
+          "sellerScoreColor": "3CCD7D",
+          "deliveryProviderName": "SAĞLIKLIGÜNLER",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false,
+          "bulkSalesLimit": 20
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=754743",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=754743",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "399 TL",
+            "value": 399
+          },
+          "sellingPrice": {
+            "text": "399 TL",
+            "value": 399
+          },
+          "originalPrice": {
+            "text": "399 TL",
+            "value": 399
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "merchantMarkers": [],
+          "id": 754743,
+          "name": "MHR-PHARMA",
+          "officialName": "MHR İLAÇ PAZARLAMA VE TİCARET LİMİTED ŞİRKETİ",
+          "cityName": "Kayseri",
+          "centralRegistrationSystemNumber": "0620150406800001",
+          "registeredEmailAddress": "mhrilac@hs01.kep.tr",
+          "taxNumber": "6201504068",
+          "sellerScore": 9.3,
+          "sellerScoreColor": "049B24",
+          "deliveryProviderName": "MHR-PHARMA",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=757749",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=757749",
+        "promotions": [
+          {
+            "promotionRemainingTime": "",
+            "isOnlyAz": false,
+            "isLimitSatisfied": false,
+            "type": 1,
+            "text": "1.000 TL'ye 40 TL İndirim",
+            "id": 9681063,
+            "promotionDiscountType": "DiscountOnBasket",
+            "link": "/sr?prm=9681063"
+          }
+        ],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "400 TL",
+            "value": 400
+          },
+          "sellingPrice": {
+            "text": "400 TL",
+            "value": 400
+          },
+          "originalPrice": {
+            "text": "400 TL",
+            "value": 400
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "merchantMarkers": [],
+          "id": 757749,
+          "name": "nature sağlık ürünleri",
+          "officialName": "ADEM İLHAN",
+          "cityName": "Erzincan",
+          "centralRegistrationSystemNumber": "2857372521200016",
+          "registeredEmailAddress": "adem.ilhan@hs01.kep.tr",
+          "taxNumber": "4720199672",
+          "sellerScore": 8.6,
+          "sellerScoreColor": "08B449",
+          "deliveryProviderName": "nature sağlık ürünleri",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=189152",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=189152",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "432,74 TL",
+            "value": 432.74
+          },
+          "sellingPrice": {
+            "text": "432,74 TL",
+            "value": 432.74
+          },
+          "originalPrice": {
+            "text": "432,74 TL",
+            "value": 432.74
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [],
+          "merchantMarkers": [],
+          "id": 189152,
+          "name": "depoeczanem",
+          "officialName": "KUAZAR İLAÇ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+          "cityName": "Ankara",
+          "centralRegistrationSystemNumber": "0590056567000014",
+          "registeredEmailAddress": "kuazarilac@hs01.kep.tr",
+          "taxNumber": "5900565670",
+          "sellerScore": 8.2,
+          "sellerScoreColor": "3CCD7D",
+          "deliveryProviderName": "depoeczanem",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": false,
+          "deliveryDate": "16 - 22 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 3,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=191466",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=191466",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "485 TL",
+            "value": 485
+          },
+          "sellingPrice": {
+            "text": "485 TL",
+            "value": 485
+          },
+          "originalPrice": {
+            "text": "485 TL",
+            "value": 485
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [],
+          "merchantMarkers": [],
+          "id": 191466,
+          "name": "kozmeko",
+          "officialName": "ARPEK KOZMETİK İTRİYAT E-TİCARET SANAYİ VE LİMİTED ŞİRKETİ",
+          "cityName": "Antalya",
+          "centralRegistrationSystemNumber": "0080088406800001",
+          "registeredEmailAddress": "arpek@hs01.kep.tr",
+          "taxNumber": "0800884068",
+          "sellerScore": 9.8,
+          "sellerScoreColor": "049B24",
+          "deliveryProviderName": "kozmeko",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false,
+          "bulkSalesLimit": 300
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=876911",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=876911",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "499 TL",
+            "value": 499
+          },
+          "sellingPrice": {
+            "text": "499 TL",
+            "value": 499
+          },
+          "originalPrice": {
+            "text": "499 TL",
+            "value": 499
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917
+          ],
+          "merchantBadges": [],
+          "merchantMarkers": [],
+          "id": 876911,
+          "name": "MOONLIKE STORE",
+          "officialName": "İSMAİL AY",
+          "cityName": "Eskişehir",
+          "registeredEmailAddress": "ismail.ay.1@hs01.kep.tr",
+          "taxNumber": "1060844391",
+          "sellerScore": 9.7,
+          "sellerScoreColor": "049B24",
+          "deliveryProviderName": "MOONLIKE STORE",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      },
+      {
+        "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268?boutiqueId=61&merchantId=544574",
+        "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+        "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=544574",
+        "promotions": [],
+        "discountedPriceInfo": "",
+        "isSellable": true,
+        "isBasketDiscount": false,
+        "hasStock": true,
+        "price": {
+          "profitMargin": 0,
+          "discountedPrice": {
+            "text": "500 TL",
+            "value": 500
+          },
+          "sellingPrice": {
+            "text": "500 TL",
+            "value": 500
+          },
+          "originalPrice": {
+            "text": "500 TL",
+            "value": 500
+          },
+          "currency": "TRY"
+        },
+        "isFreeCargo": true,
+        "isLongTermDelivery": false,
+        "merchant": {
+          "isSearchableMerchant": true,
+          "stickers": [
+            895,
+            917,
+            1108
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "merchantMarkers": [],
+          "id": 544574,
+          "name": "AR-EL TİCARET",
+          "officialName": "GÜLDEN ERDOĞAN",
+          "cityName": "Ankara",
+          "registeredEmailAddress": "gulden.erdogan@hs01.kep.tr",
+          "taxNumber": "5140319321",
+          "sellerScore": 9.2,
+          "sellerScoreColor": "049B24",
+          "deliveryProviderName": "AR-EL TİCARET",
+          "corporateInvoiceApplicable": true,
+          "locationBasedSales": false
+        },
+        "deliveryInformation": {
+          "isRushDelivery": true,
+          "deliveryDate": "18 - 21 Mart",
+          "fastDeliveryOptions": []
+        },
+        "cargoRemainingDays": 2,
+        "isBlacklist": false
+      }
+    ],
+    "campaign": {
+      "id": 61,
+      "name": "Tüm Ürünler",
+      "startDate": "2010-01-01T17:04:05",
+      "endDate": "2061-01-01T18:04:05",
+      "isMultipleSupplied": false,
+      "stockTypeId": 7,
+      "url": "/tum-urunler/butikdetay/61",
+      "showTimer": false
+    },
+    "category": {
+      "id": 103763,
+      "name": "Süt Arttırıcı İçecekler",
+      "hierarchy": "Süpermarket/Anne ve Bebek Bakım/Bebek Beslenme ve Emzirme/Süt Arttırıcı İçecek",
+      "refundable": true,
+      "beautifiedName": "sut-arttirici-icecekler",
+      "isVASEnabled": false
+    },
+    "brand": {
+      "isVirtual": true,
+      "beautifiedName": "bestlak",
+      "id": 161837,
+      "name": "Bestlak",
+      "path": "/bestlak-x-b161837"
+    },
+    "color": null,
+    "metaBrand": {
+      "id": 1805033,
+      "name": "Bestlak",
+      "beautifiedName": "",
+      "isVirtual": false,
+      "path": ""
+    },
+    "showVariants": false,
+    "showSexualContent": true,
+    "brandCategoryBanners": [],
+    "allVariants": [
+      {
+        "itemNumber": 92881186,
+        "value": "",
+        "inStock": true,
+        "currency": "TRY",
+        "barcode": "868186320001511",
+        "price": 303
+      }
+    ],
+    "otherMerchantVariants": [],
+    "socialProof": {
+      "pageViewCount": 668,
+      "orderCount": 16409,
+      "basketCount": 785
+    },
+    "token": "",
+    "isThereAnyCorporateInvoiceInOtherMerchants": true,
+    "advertProduct": null,
+    "categoryTopRankings": {
+      "name": "bestSeller",
+      "order": 1,
+      "url": "/sirali-urunler?categoryId=103763&type=bestSeller&webGenderId=0",
+      "text": "en çok satılan"
+    },
+    "isVasEnabled": false,
+    "originalCategory": {
+      "id": 995,
+      "name": "Süt Arttırıcı İçecek",
+      "hierarchy": "Süpermarket/Anne ve Bebek Bakım/Bebek Beslenme ve Emzirme/Süt Arttırıcı İçecek",
+      "refundable": true,
+      "beautifiedName": "sut-arttirici-icecek",
+      "isVASEnabled": false
+    },
+    "landings": [],
+    "id": 52332268,
+    "productCode": "868186320001511",
+    "name": "Emziren Anneler İçin Damla 50 ml",
+    "nameWithProductCode": "Emziren Anneler İçin Damla 50 ml 868186320001511",
+    "contentDescriptions": [
+      {
+        "description": "İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir.",
+        "bold": true
+      },
+      {
+        "description": "Emziren Anneler İçin Damla 50 ml",
+        "bold": false
+      },
+      {
+        "description": "Bu üründen en fazla 20 adet sipariş verilebilir. 20 adetin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar.",
+        "bold": false
+      },
+      {
+        "description": "Kampanya fiyatından satılmak üzere 100 adetten fazla stok sunulmuştur.",
+        "bold": false
+      },
+      {
+        "description": "Bu ürün indirim kampanyasına dahil değildir.",
+        "bold": false
+      },
+      {
+        "description": "Bir ürün, birden fazla satıcı tarafından satılabilir. Birden fazla satıcı tarafından satışa sunulan ürünlerin satıcıları ürün için belirledikleri fiyata, satıcı puanlarına, teslimat statülerine, ürünlerdeki promosyonlara, kargonun bedava olup olmamasına ve ürünlerin hızlı teslimat ile teslim edilip edilememesine, ürünlerin stok ve kategorileri bilgilerine göre sıralanmaktadır.",
+        "bold": false
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Ürünün son kullanma tarihi (SKT) nedir?",
+        "answer": "Ürünleri gönderen satıcıların elindeki stoklara göre ürünlerin SKT'si değişebilmektedir. Satıcıya soru sor kısmından ilgili satıcıya gönderilecek ürünün SKT 'sini sorarak öğrenebilirsiniz.",
+        "priority": 1
+      },
+      {
+        "question": "Satın aldığım ürünü nasıl iade edebilirim?",
+        "answer": "İlgili mevzuat uyarınca satın aldığınız ürünü ambalajı açılmadığı müddetçe 15 gün içerisinde ücretsiz iade edebilirsiniz. İade ettiğiniz ürünün sağlam şekilde satıcıya ulaşabilmesi için orijinaline uygun şekilde tekrar paketlenmiş olarak gönderimi önemlidir. Detaylı bilgi için [url=\"https://www.trendyol.com/yardim/sorular/1\"]tıklayınız[/url].",
+        "priority": 2
+      }
+    ],
+    "descriptions": [
+      {
+        "text": "Bu ürün [page=\"merchant_info\"]Leylekkapıda[/page] tarafından gönderilecektir.",
+        "priority": 2
+      },
+      {
+        "text": "Kampanya fiyatından satılmak üzere 100 adetten fazla stok sunulmuştur.",
+        "priority": 4
+      },
+      {
+        "text": "İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir.",
+        "priority": 7
+      },
+      {
+        "text": "Bir ürün, birden fazla satıcı tarafından satılabilir. Birden fazla satıcı tarafından satışa sunulan ürünlerin satıcıları ürün için belirledikleri fiyata, satıcı puanlarına, teslimat statülerine, ürünlerdeki promosyonlara, kargonun bedava olup olmamasına ve ürünlerin hızlı teslimat ile teslim edilip edilememesine, ürünlerin stok ve kategorileri bilgilerine göre sıralanmaktadır.",
+        "priority": 1001
+      },
+      {
+        "text": "Bu üründen en fazla 20 adet sipariş verilebilir. 20 adedin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar. Belirlenen bu limit kurumsal siparişlerde geçerli olmayıp, kurumsal siparişler için farklı limitler belirlenebilmektedir.",
+        "priority": 1003
+      },
+      {
+        "text": "15 gün içinde ücretsiz iade. Detaylı bilgi için [page=\"return_conditions\"]tıklayın[/page].",
+        "priority": 1005
+      },
+      {
+        "text": "Emziren Anneler İçin Damla 50 ml",
+        "priority": 0
+      }
+    ],
+    "productGroupId": 44180142,
+    "tax": 1,
+    "businessUnit": "Anne & Bebek Bakım",
+    "businessUnitId": 100108,
+    "maxInstallment": 1,
+    "gender": {},
+    "url": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268",
+    "images": [
+      "/ty971/product/media/images/20230719/22/395126118/92881186/1/1_org_zoom.jpg"
+    ],
+    "isSellable": true,
+    "isBasketDiscount": false,
+    "hasStock": true,
+    "price": {
+      "profitMargin": 0,
+      "discountedPrice": {
+        "text": "303 TL",
+        "value": 303
+      },
+      "sellingPrice": {
+        "text": "303 TL",
+        "value": 303
+      },
+      "originalPrice": {
+        "text": "303 TL",
+        "value": 303
+      },
+      "currency": "TRY"
+    },
+    "isFreeCargo": true,
+    "isLongTermDelivery": false,
+    "promotions": [
+      {
+        "promotionRemainingTime": "",
+        "isOnlyAz": false,
+        "isLimitSatisfied": false,
+        "type": 2,
+        "text": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+        "id": 11283297,
+        "promotionDiscountType": "Cargo",
+        "link": "/sr?prm=11283297"
+      }
+    ],
+    "merchant": {
+      "isSearchableMerchant": true,
+      "stickers": [
+        895,
+        917
+      ],
+      "merchantBadges": [
+        {
+          "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+          "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+          "type": "BADGE"
+        }
+      ],
+      "merchantMarkers": [],
+      "id": 170528,
+      "name": "Leylekkapıda",
+      "officialName": "KUTAY ELİT SAĞLIK ANONİM ŞİRKETİ",
+      "cityName": "İstanbul",
+      "centralRegistrationSystemNumber": "0599072010700001",
+      "registeredEmailAddress": "kutayelitsaglik@hs01.kep.tr",
+      "taxNumber": "5990720107",
+      "sellerScore": 8.9,
+      "sellerScoreColor": "08B449",
+      "deliveryProviderName": "Leylekkapıda",
+      "corporateInvoiceApplicable": true,
+      "locationBasedSales": false,
+      "sellerLink": "/magaza/leylekkapida-m-170528"
+    },
+    "merchantListings": [
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 170528,
+          "name": "Leylekkapıda",
+          "officialName": "KUTAY ELİT SAĞLIK ANONİM ŞİRKETİ",
+          "cityName": "İstanbul",
+          "centralRegistrationSystemNumber": "0599072010700001",
+          "registeredEmailAddress": "kutayelitsaglik@hs01.kep.tr",
+          "taxNumber": "5990720107",
+          "sellerScore": 8.9,
+          "sellerScoreColor": "08B449",
+          "districtName": "Gaziosmanpaşa",
+          "countryName": "Türkiye",
+          "address": "KARADENİZ MAH. GENERAL ALDOĞAN CAD. NO:10-12/A",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/170528/13e44868-b84f-405d-bbf7-742aa06fefe2.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": true,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11283297,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [
+          {
+            "id": 12984141,
+            "name": "Ödül Ürününe 40 TL İndirim",
+            "discountType": 2,
+            "promotionDiscountType": "Other",
+            "crossPromotionAward": {
+              "awardType": "AMOUNT",
+              "awardValue": 40,
+              "contentId": 805731789,
+              "merchantId": 170528
+            },
+            "promotionEndDate": "2024-06-30T23:59:00",
+            "promotionRemainingDays": 106,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 4,
+            "isLimitSatisfied": false,
+            "shortName": "Birlikte Al",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "variants": [
+          {
+            "listingId": "ffb12887b012e5a710a8fd69229398c1",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 1196,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 303,
+              "originalPrice": 303,
+              "manipulatedOriginalPrice": 303,
+              "discountedPrice": 303,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999970.7909294077,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999973.7030192536,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "rushDeliveryMerchantListing": {
+              "exist": false
+            },
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "allVariants": [
+          {
+            "itemNumber": 92881186,
+            "value": "",
+            "inStock": true
+          }
+        ],
+        "otherMerchantVariants": [],
+        "hasCheapestVariant": true,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "dimensionalWeight",
+            "value": "0.0"
+          },
+          {
+            "key": "stockCode",
+            "value": "8681863200015"
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          },
+          {
+            "key": "backUpDeliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "hsCode",
+            "value": "210690980019"
+          },
+          {
+            "key": "microExport",
+            "value": "true"
+          },
+          {
+            "key": "origin",
+            "value": "TR"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": true
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 360038,
+          "name": "Fiyera",
+          "officialName": "ONUR BARAN YALÇIN",
+          "cityName": "İstanbul",
+          "registeredEmailAddress": "onurbaran.yalcin@hs01.kep.tr",
+          "taxNumber": "9310605844",
+          "sellerScore": 8.8,
+          "sellerScoreColor": "08B449",
+          "districtName": "Esenyurt",
+          "countryName": "Türkiye",
+          "address": "Mahalle/Semt:YEŞİLKENT MAH. Cadde/Sokak:1912. SK. IŞIK AP No:2 -4/1 İç Kapı No:16",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/360038/cca42d58-ad60-4e2d-a8d1-0b528136fa6c.jpg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "bulkSalesLimit": 300,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11306982,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "e0cf6ea7424f373d3fb6bdcbfe22ecb6",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 343,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 316.15,
+              "originalPrice": 316.15,
+              "manipulatedOriginalPrice": 316.16,
+              "discountedPrice": 316.15,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999968.7595813862,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999970.9105481493,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [
+          {
+            "id": 0,
+            "selectionOverQuantity": 1,
+            "discountedPrice": 316.15,
+            "totalNonDiscountedPrice": 316.15
+          },
+          {
+            "id": 12831272,
+            "totalDiscountedPrice": 600.69,
+            "selectionOverQuantity": 2,
+            "discountedPrice": 300.34,
+            "savingRate": 5,
+            "totalNonDiscountedPrice": 632.3
+          },
+          {
+            "id": 12831273,
+            "totalDiscountedPrice": 891.54,
+            "selectionOverQuantity": 3,
+            "discountedPrice": 297.18,
+            "savingRate": 6,
+            "totalNonDiscountedPrice": 948.4499999999999
+          },
+          {
+            "id": 12831274,
+            "totalDiscountedPrice": 1163.43,
+            "selectionOverQuantity": 4,
+            "discountedPrice": 290.86,
+            "savingRate": 8,
+            "totalNonDiscountedPrice": 1264.6
+          }
+        ],
+        "customValues": [
+          {
+            "key": "backUpDeliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "hsCode",
+            "value": "210690980019"
+          },
+          {
+            "key": "microExport",
+            "value": "true"
+          },
+          {
+            "key": "origin",
+            "value": "TR"
+          },
+          {
+            "key": "dimensionalWeight",
+            "value": "0.0"
+          },
+          {
+            "key": "stockCode",
+            "value": "2161-1-1"
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 613181,
+          "name": "YİĞİT SAĞLIK ÜRÜNLERİ",
+          "officialName": "MELİS CAN ÇELİK",
+          "cityName": "Hatay",
+          "centralRegistrationSystemNumber": "3828744248000011",
+          "registeredEmailAddress": "melis.cancelik@hs01.kep.tr",
+          "taxNumber": "1970589583",
+          "sellerScore": 9.6,
+          "sellerScoreColor": "049B24",
+          "districtName": "Arsuz",
+          "countryName": "Türkiye",
+          "address": "GÖKMEYDAN MAH.UĞUR MUMCU BULVARI. NO:85/1  ARSUZ /HATAY",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/613181/2d813977-64cf-4e8a-b050-7443c5994827.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            },
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/basarili_satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/ios_basarili_satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "bulkSalesLimit": 20,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 13079353,
+            "name": "400 TL'ye 50 TL İndirim",
+            "discountType": 2,
+            "promotionDiscountType": "DiscountOnBasket",
+            "promotionEndDate": "2024-12-29T23:59:00",
+            "promotionRemainingDays": 288,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 4,
+            "isLimitSatisfied": true,
+            "shortName": "Çok Al Az Öde",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          },
+          {
+            "id": 11416379,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [
+          {
+            "id": 12686926,
+            "name": "Ödül Ürününe 40 TL İndirim",
+            "discountType": 2,
+            "promotionDiscountType": "Other",
+            "crossPromotionAward": {
+              "awardType": "AMOUNT",
+              "awardValue": 40,
+              "contentId": 39441074,
+              "merchantId": 613181
+            },
+            "promotionEndDate": "2024-08-31T23:59:00",
+            "promotionRemainingDays": 168,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 4,
+            "isLimitSatisfied": false,
+            "shortName": "Birlikte Al",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          },
+          {
+            "id": 12688124,
+            "name": "Ödül Ürününe 30 TL İndirim",
+            "discountType": 2,
+            "promotionDiscountType": "Other",
+            "crossPromotionAward": {
+              "awardType": "AMOUNT",
+              "awardValue": 30,
+              "contentId": 87609297,
+              "merchantId": 613181
+            },
+            "promotionEndDate": "2026-10-31T23:59:00",
+            "promotionRemainingDays": 959,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 4,
+            "isLimitSatisfied": false,
+            "shortName": "Birlikte Al",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "variants": [
+          {
+            "listingId": "da0b06b8712d6732939c1b6579e25423",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 99,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 425,
+              "originalPrice": 425,
+              "manipulatedOriginalPrice": 425,
+              "discountedPrice": 425,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": true,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999968.3927373686,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999969.8644521692,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [
+              "6e8e3924-be83-4033-9af4-4212a61e7d81"
+            ],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "collectableCouponDiscount": 50,
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "stockCode",
+            "value": ""
+          },
+          {
+            "key": "vatRate",
+            "value": "20"
+          },
+          {
+            "key": "giftBox",
+            "value": "false"
+          },
+          {
+            "key": "giftText",
+            "value": "false"
+          },
+          {
+            "key": "backUpDeliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "hsCode",
+            "value": "210690980019"
+          },
+          {
+            "key": "microExport",
+            "value": "true"
+          },
+          {
+            "key": "origin",
+            "value": "TR"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 806219,
+          "name": "Avi",
+          "officialName": "MUSTAFA FURKAN KUŞCU",
+          "cityName": "Adana",
+          "registeredEmailAddress": "mustafafurkan.kuscu@hs01.kep.tr",
+          "taxNumber": "5980901911",
+          "sellerScore": 9,
+          "sellerScoreColor": "049B24",
+          "districtName": "Seyhan",
+          "countryName": "TÜRKİYE",
+          "address": "Reşatbey Mahallesi Ordu Caddesi no:44/A Seyhan/Adana",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/806219/dad4df92-d934-44ba-8889-92c01d3c22a4.png",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11608818,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "f95840d21820971ce48650cf8062ce40",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 5,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 326,
+              "originalPrice": 326,
+              "manipulatedOriginalPrice": 326,
+              "discountedPrice": 326,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999967.487818999,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999968.9883466016,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [
+              "ef6e3396-0c09-4330-8d62-23cf09516db4"
+            ],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "giftBox",
+            "value": "false"
+          },
+          {
+            "key": "giftText",
+            "value": "false"
+          },
+          {
+            "key": "stockCode",
+            "value": "BESTLAK TEKLİ"
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          },
+          {
+            "key": "backUpDeliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "hsCode",
+            "value": "210690980019"
+          },
+          {
+            "key": "microExport",
+            "value": "true"
+          },
+          {
+            "key": "origin",
+            "value": "TR"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-16T01:54:14",
+        "deliveryEndDate": "2024-03-22T01:54:14",
+        "merchant": {
+          "id": 675749,
+          "name": "KOZVİT DEPO",
+          "officialName": "MUHAMMED YUSUF ŞAHİN",
+          "cityName": "İstanbul",
+          "centralRegistrationSystemNumber": "5280461718200001",
+          "registeredEmailAddress": "muhammedyusufshn@hs01.kep.tr",
+          "taxNumber": "7940710358",
+          "sellerScore": 8.2,
+          "sellerScoreColor": "3CCD7D",
+          "districtName": "Başakşehir",
+          "countryName": "TÜRKİYE",
+          "address": "Mahalle/Semt:BAŞAK MAH. Cadde/Sokak:YEŞİL VADİ CAD. METROKENT C2 BLOK No:3M İç Kapı No:25",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/675749/9ba89a19-e4fb-4b61-ab68-4f103687ff4c.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11477080,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "1ceffa092404e42490a94a6765b17fd2",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 10,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 320,
+              "originalPrice": 320,
+              "manipulatedOriginalPrice": 320,
+              "discountedPrice": 320,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 0,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999966.770192576,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999968.2998946066,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-19T01:54:14",
+        "cargoRemainingDays": 3,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 2,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "dimensionalWeight",
+            "value": "0.0"
+          },
+          {
+            "key": "stockCode",
+            "value": ""
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 231679,
+          "name": "cnnfarma",
+          "officialName": "CANAN KURTMAN",
+          "cityName": "İstanbul",
+          "registeredEmailAddress": "canan.kurtman@hs01.kep.tr",
+          "taxNumber": "5960455116",
+          "sellerScore": 9.6,
+          "sellerScoreColor": "049B24",
+          "districtName": "Avcılar",
+          "countryName": "Türkiye",
+          "address": "KİRAZLI CADDESİ IŞILAY ECZANESİ NO:65/A",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/preview/logo.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11120408,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "2f606777558bdaec1ca779a4394c5964",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 1,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 339,
+              "originalPrice": 339,
+              "manipulatedOriginalPrice": 339,
+              "discountedPrice": 339,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999966.3054702354,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999966.9270566244,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "backUpDeliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "hsCode",
+            "value": "210690980019"
+          },
+          {
+            "key": "microExport",
+            "value": "true"
+          },
+          {
+            "key": "origin",
+            "value": "TR"
+          },
+          {
+            "key": "giftBox",
+            "value": "false"
+          },
+          {
+            "key": "giftText",
+            "value": "false"
+          },
+          {
+            "key": "stockCode",
+            "value": ""
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-16T01:54:14",
+        "deliveryEndDate": "2024-03-22T01:54:14",
+        "merchant": {
+          "id": 897870,
+          "name": "AHSEN ŞİFA",
+          "officialName": "AHSENİ ŞİFA MEDİKAL İTRİYAT KOZMETİK TEMİZLİK TARIM GIDA ÜRETİM HAY.İNŞ.İTH.İHR.TİC.VE SAN.LTD.ŞTİ.",
+          "cityName": "Bingöl",
+          "centralRegistrationSystemNumber": "0010220687400001",
+          "registeredEmailAddress": "ahsenisifa@hs09.kep.tr",
+          "taxNumber": "0102206874",
+          "sellerScore": 9,
+          "sellerScoreColor": "049B24",
+          "districtName": "Merkez",
+          "countryName": "TÜRKİYE",
+          "address": "Mahalle/Semt:SİMANİ MAH. Cadde/Sokak:MESNEVİ CAD. No:58 B",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/897870/generated-logo.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            },
+            {
+              "id": 1108
+            }
+          ],
+          "merchantBadges": [],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11716958,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "66bfd9de82c2c77665879bb7c9394987",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 93,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 330,
+              "originalPrice": 350,
+              "manipulatedOriginalPrice": 350,
+              "discountedPrice": 330,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 0,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999966.287057961,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999967.0901437317,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "lowestPriceDuration": {
+              "duration": 30
+            },
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": true
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-19T01:54:14",
+        "cargoRemainingDays": 3,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 2,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "backUpDeliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "hsCode",
+            "value": "210690980019"
+          },
+          {
+            "key": "microExport",
+            "value": "true"
+          },
+          {
+            "key": "origin",
+            "value": "TR"
+          },
+          {
+            "key": "giftBox",
+            "value": "false"
+          },
+          {
+            "key": "giftText",
+            "value": "false"
+          },
+          {
+            "key": "stockCode",
+            "value": ""
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 646009,
+          "name": "EczaVita",
+          "officialName": "ECZAVİTA MEDİKAL KOZMETİK TEMİZLİK GIDA İNŞAAT TEKSTİL OTOMOTİV İTHALAT İHRACAT SAN.VE TİC.LTD.ŞTİ.",
+          "cityName": "Bingöl",
+          "centralRegistrationSystemNumber": "0324104929100001",
+          "registeredEmailAddress": "eczavitamedikal@hs09.kep.tr",
+          "taxNumber": "3241049291",
+          "sellerScore": 9.6,
+          "sellerScoreColor": "049B24",
+          "districtName": "Merkez",
+          "countryName": "TÜRKİYE",
+          "address": "Mahalle/Semt:YEŞİLYURT MAH. Cadde/Sokak:SELÇUK SK. NAZENIN APRTMAN No:19 İç Kapı No:7",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/646009/fc76b595-8ae5-4bf1-9fd0-3f4f5c520daf.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/basarili_satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/ios_basarili_satici.png",
+              "type": "BADGE"
+            },
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "bulkSalesLimit": 50,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11516258,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [
+          {
+            "id": 12992545,
+            "name": "1 TL'ye Ödül Ürünü 275 TL",
+            "discountType": 2,
+            "promotionDiscountType": "Other",
+            "crossPromotionAward": {
+              "awardType": "FIXED_PRICE",
+              "awardValue": 275,
+              "contentId": 349875434,
+              "merchantId": 646009
+            },
+            "promotionEndDate": "2024-03-31T23:59:00",
+            "promotionRemainingDays": 15,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 4,
+            "isLimitSatisfied": true,
+            "shortName": "Birlikte Al",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          },
+          {
+            "id": 12992558,
+            "name": "Ödül Ürününe 25 TL İndirim",
+            "discountType": 2,
+            "promotionDiscountType": "Other",
+            "crossPromotionAward": {
+              "awardType": "AMOUNT",
+              "awardValue": 25,
+              "contentId": 349875434,
+              "merchantId": 646009
+            },
+            "promotionEndDate": "2024-03-31T23:59:00",
+            "promotionRemainingDays": 15,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 4,
+            "isLimitSatisfied": false,
+            "shortName": "Birlikte Al",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "variants": [
+          {
+            "listingId": "a7cb7713913b01fc8aee52934584532e",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 1,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 350,
+              "originalPrice": 350,
+              "manipulatedOriginalPrice": 350,
+              "discountedPrice": 350,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": true,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999966.1563797258,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999966.7172426569,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "collectableCouponDiscount": 10,
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "backUpDeliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "hsCode",
+            "value": "210690980019"
+          },
+          {
+            "key": "microExport",
+            "value": "true"
+          },
+          {
+            "key": "origin",
+            "value": "TR"
+          },
+          {
+            "key": "stockCode",
+            "value": ""
+          },
+          {
+            "key": "vatRate",
+            "value": "20"
+          },
+          {
+            "key": "giftBox",
+            "value": "false"
+          },
+          {
+            "key": "giftText",
+            "value": "false"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 552687,
+          "name": "onlinEczane",
+          "officialName": "NORTHPHARMA GÜZELLİK SAĞLIK KOZMETİK SANAYİ LİMİTED ŞİRKETİ",
+          "cityName": "Kocaeli",
+          "centralRegistrationSystemNumber": "0632117171800001",
+          "registeredEmailAddress": "northpharma@hs01.kep.tr",
+          "taxNumber": "6321171718",
+          "sellerScore": 9.5,
+          "sellerScoreColor": "049B24",
+          "districtName": "Çayırova",
+          "countryName": "Türkiye",
+          "address": "Özgürlük Mahallesi Rahmi dibek caddesi no:90/A Çayırova Kocaeli",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/552687/5bd2c2df-e282-4646-b9fb-7d5e7159c27e.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "bulkSalesLimit": 120,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11466132,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [
+          {
+            "id": 12550344,
+            "name": "Ödül Ürünü 149 TL",
+            "discountType": 2,
+            "promotionDiscountType": "Other",
+            "crossPromotionAward": {
+              "awardType": "FIXED_PRICE",
+              "awardValue": 149,
+              "contentId": 807600967,
+              "merchantId": 552687
+            },
+            "promotionEndDate": "2024-03-31T23:59:00",
+            "promotionRemainingDays": 15,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 4,
+            "isLimitSatisfied": false,
+            "shortName": "Birlikte Al",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          },
+          {
+            "id": 12986481,
+            "name": "1 TL'ye Ödül Ürünü 149 TL",
+            "discountType": 2,
+            "promotionDiscountType": "Other",
+            "crossPromotionAward": {
+              "awardType": "FIXED_PRICE",
+              "awardValue": 149,
+              "contentId": 807600967,
+              "merchantId": 552687
+            },
+            "promotionEndDate": "2024-03-31T23:59:00",
+            "promotionRemainingDays": 15,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 4,
+            "isLimitSatisfied": true,
+            "shortName": "Birlikte Al",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "variants": [
+          {
+            "listingId": "e8436313ef4ef22da01ccedd6da53ab6",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 197,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 349.9,
+              "originalPrice": 349.9,
+              "manipulatedOriginalPrice": 349.9,
+              "discountedPrice": 349.9,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999964.5544123716,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999964.5290357788,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "dimensionalWeight",
+            "value": "0.0"
+          },
+          {
+            "key": "stockCode",
+            "value": "besdam"
+          },
+          {
+            "key": "vatRate",
+            "value": "20"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-16T01:54:14",
+        "deliveryEndDate": "2024-03-22T01:54:14",
+        "merchant": {
+          "id": 688625,
+          "name": "YÜCAZ",
+          "officialName": "BURAK UĞUR YILDIRIM",
+          "cityName": "Isparta",
+          "registeredEmailAddress": "burakugur.yildirim@hs01.kep.tr",
+          "taxNumber": "9540695781",
+          "sellerScore": 8.8,
+          "sellerScoreColor": "08B449",
+          "districtName": "Merkez",
+          "countryName": "TÜRKİYE",
+          "address": "Mahalle/Semt:KUTLUBEY MAH. Cadde/Sokak:1003 SK. No:10 A İç Kapı No:A",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/688625/a9c66258-6d82-4f3b-9238-c40215f0d48d.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11612584,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "4905743c69873c76e5491a1afd9f20cf",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "2007202033008",
+            "tyBarcode": "868186320001511",
+            "quantity": 4,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 349,
+              "originalPrice": 349,
+              "manipulatedOriginalPrice": 349,
+              "discountedPrice": 349,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 0,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999963.2023956603,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999962.8815811496,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-19T01:54:14",
+        "cargoRemainingDays": 3,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 2,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "stockCode",
+            "value": "H03022"
+          },
+          {
+            "key": "vatRate",
+            "value": "20"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 109331,
+          "name": "Mutlu Fiyatlar",
+          "officialName": "BUĞLEM İLAÇ MEDİKAL KOZMETİK İTHALAT İHRACAT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+          "cityName": "Antalya",
+          "centralRegistrationSystemNumber": "0188093268300001",
+          "registeredEmailAddress": "buglem.ilacmedikal@hs01.kep.tr",
+          "taxNumber": "1880932683",
+          "sellerScore": 8.9,
+          "sellerScoreColor": "08B449",
+          "districtName": "Kepez",
+          "countryName": "Türkiye",
+          "address": "Göksu Mahallesi Gazi Bulvarı 469/1 Kepez/Antalya",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/109331/898feccd-c87a-4a2f-a651-f1df906ad6bd.jpg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            },
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/basarili_satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/ios_basarili_satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 13026363,
+            "name": "2. Ürüne 40 TL İndirim",
+            "discountType": 2,
+            "promotionDiscountType": "TwoForOne",
+            "promotionEndDate": "2024-03-25T05:00:00",
+            "promotionRemainingDays": 9,
+            "promotionRemainingHours": 3,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Çok Al Az Öde",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          },
+          {
+            "id": 11102861,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "7bfc5c05ee867308ff55238b3120d35b",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 296,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 354.86,
+              "originalPrice": 354.86,
+              "manipulatedOriginalPrice": 354.86,
+              "discountedPrice": 354.86,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999963.1366226494,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999962.9311701632,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "dimensionalWeight",
+            "value": "0.0"
+          },
+          {
+            "key": "stockCode",
+            "value": "P00803"
+          },
+          {
+            "key": "vatRate",
+            "value": "20"
+          },
+          {
+            "key": "backUpDeliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "hsCode",
+            "value": "210690980019"
+          },
+          {
+            "key": "microExport",
+            "value": "true"
+          },
+          {
+            "key": "origin",
+            "value": "TR"
+          }
+        ],
+        "searchableTags": [
+          "stoguazalanurunler:stoguazalanurunler"
+        ],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 307501,
+          "name": "SAĞLIKLIGÜNLER",
+          "officialName": "MUSTAFA ÇAĞRI POLAT",
+          "cityName": "Osmaniye",
+          "centralRegistrationSystemNumber": "3150152551800001",
+          "registeredEmailAddress": "mustafacagri.polat@hs01.kep.tr",
+          "taxNumber": "7320981853",
+          "sellerScore": 8.2,
+          "sellerScoreColor": "3CCD7D",
+          "districtName": "Merkez",
+          "countryName": "Türkiye",
+          "address": "Zorkun yolu zengibar fırını karşısı",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/307501/58dc351c-e933-475b-94b5-9283fe2e3949.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "bulkSalesLimit": 20,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 7976365,
+            "name": "2. Ürüne 15 TL İndirim",
+            "discountType": 2,
+            "promotionDiscountType": "TwoForOne",
+            "promotionEndDate": "2027-08-31T23:59:00",
+            "promotionRemainingDays": 1263,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 4,
+            "isLimitSatisfied": false,
+            "shortName": "Çok Al Az Öde",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          },
+          {
+            "id": 11326360,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "d1c8bd23dd7922f5856f8b872928cebe",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 9,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 350,
+              "originalPrice": 350,
+              "manipulatedOriginalPrice": 350,
+              "discountedPrice": 350,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999962.9346762027,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999963.1105816549,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [
+              "e01025b2-0c9e-49d9-aae2-7d6de529d63a"
+            ],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "stockCode",
+            "value": "BESTLAK DAMLA"
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          },
+          {
+            "key": "giftBox",
+            "value": "false"
+          },
+          {
+            "key": "giftText",
+            "value": "false"
+          },
+          {
+            "key": "backUpDeliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "hsCode",
+            "value": "210690980019"
+          },
+          {
+            "key": "microExport",
+            "value": "true"
+          },
+          {
+            "key": "origin",
+            "value": "TR"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 754743,
+          "name": "MHR-PHARMA",
+          "officialName": "MHR İLAÇ PAZARLAMA VE TİCARET LİMİTED ŞİRKETİ",
+          "cityName": "Kayseri",
+          "centralRegistrationSystemNumber": "0620150406800001",
+          "registeredEmailAddress": "mhrilac@hs01.kep.tr",
+          "taxNumber": "6201504068",
+          "sellerScore": 9.3,
+          "sellerScoreColor": "049B24",
+          "districtName": "Melikgazi",
+          "countryName": "TÜRKİYE",
+          "address": "Tacettin veli mahallesi şehit miralay nazım bey bulvarı 89/C melikgazi kayseri",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/754743/4bee419b-04d3-4f30-a93a-0e1f8dfebd23.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11589753,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "f32d97c982456394c7d92556d0349977",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "TYB317056770D211217120506",
+            "tyBarcode": "868186320001511",
+            "quantity": 84,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 399,
+              "originalPrice": 399,
+              "manipulatedOriginalPrice": 399,
+              "discountedPrice": 399,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999956.9821257346,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999954.0050727756,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "giftBox",
+            "value": "false"
+          },
+          {
+            "key": "giftText",
+            "value": "false"
+          },
+          {
+            "key": "stockCode",
+            "value": ""
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          },
+          {
+            "key": "backUpDeliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "hsCode",
+            "value": "210690980019"
+          },
+          {
+            "key": "microExport",
+            "value": "true"
+          },
+          {
+            "key": "origin",
+            "value": "TR"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 757749,
+          "name": "nature sağlık ürünleri",
+          "officialName": "ADEM İLHAN",
+          "cityName": "Erzincan",
+          "centralRegistrationSystemNumber": "2857372521200016",
+          "registeredEmailAddress": "adem.ilhan@hs01.kep.tr",
+          "taxNumber": "4720199672",
+          "sellerScore": 8.6,
+          "sellerScoreColor": "08B449",
+          "districtName": "Merkez",
+          "countryName": "TÜRKİYE",
+          "address": "Mahalle/Semt:YAVUZ SELİM MAH. Cadde/Sokak:BAHÇESARAY CAD. No:44 A",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/757749/generated-logo.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 9681063,
+            "name": "1.000 TL'ye 40 TL İndirim",
+            "discountType": 2,
+            "promotionDiscountType": "DiscountOnBasket",
+            "promotionEndDate": "2026-10-29T23:59:00",
+            "promotionRemainingDays": 957,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 4,
+            "isLimitSatisfied": false,
+            "shortName": "Çok Al Az Öde",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          },
+          {
+            "id": 11545404,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "bd420651d58fe88fa67574c541dd5b7b",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 10,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 400,
+              "originalPrice": 400,
+              "manipulatedOriginalPrice": 400,
+              "discountedPrice": 400,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999955.951236055,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999953.0179186082,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "dimensionalWeight",
+            "value": "0.0"
+          },
+          {
+            "key": "stockCode",
+            "value": ""
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          },
+          {
+            "key": "backUpDeliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          },
+          {
+            "key": "hsCode",
+            "value": "210690980019"
+          },
+          {
+            "key": "microExport",
+            "value": "true"
+          },
+          {
+            "key": "origin",
+            "value": "TR"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-16T01:54:14",
+        "deliveryEndDate": "2024-03-22T01:54:14",
+        "merchant": {
+          "id": 189152,
+          "name": "depoeczanem",
+          "officialName": "KUAZAR İLAÇ SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+          "cityName": "Ankara",
+          "centralRegistrationSystemNumber": "0590056567000014",
+          "registeredEmailAddress": "kuazarilac@hs01.kep.tr",
+          "taxNumber": "5900565670",
+          "sellerScore": 8.2,
+          "sellerScoreColor": "3CCD7D",
+          "districtName": "Çankaya",
+          "countryName": "Türkiye",
+          "address": "Aziziye Mah.Kuşkondu Sok.no:24/7",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/189152/9c38ec72-8ac6-44bf-8f0e-7f1ce7dd9219.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11286056,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "3631319b911ee559f4d598a55232f474",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "TXCEBE9E671739",
+            "tyBarcode": "868186320001511",
+            "quantity": 10,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 432.74,
+              "originalPrice": 432.74,
+              "manipulatedOriginalPrice": 432.74,
+              "discountedPrice": 432.74,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 0,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999949.9617285336,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999944.6454679129,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "lowestPriceDuration": {
+              "duration": 14
+            },
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-19T01:54:14",
+        "cargoRemainingDays": 3,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 2,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "giftBox",
+            "value": "true"
+          },
+          {
+            "key": "giftText",
+            "value": "true"
+          },
+          {
+            "key": "dimensionalWeight",
+            "value": "0.1"
+          },
+          {
+            "key": "returningAddressId",
+            "value": "307461"
+          },
+          {
+            "key": "shipmentAddressId",
+            "value": "307460"
+          },
+          {
+            "key": "stockCode",
+            "value": "OTO000785"
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 191466,
+          "name": "kozmeko",
+          "officialName": "ARPEK KOZMETİK İTRİYAT E-TİCARET SANAYİ VE LİMİTED ŞİRKETİ",
+          "cityName": "Antalya",
+          "centralRegistrationSystemNumber": "0080088406800001",
+          "registeredEmailAddress": "arpek@hs01.kep.tr",
+          "taxNumber": "0800884068",
+          "sellerScore": 9.8,
+          "sellerScoreColor": "049B24",
+          "districtName": "Kepez",
+          "countryName": "Türkiye",
+          "address": "15 Temmuz Şehitler Cad. Güneş Mah. no:127c Kepez Antalya",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/191466/7ca91473-7b14-4d02-a515-f0e519549b74.jpg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "bulkSalesLimit": 300,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11123534,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "66d1ad8c49ec6b58dcf4e9adf993ce15",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 559,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 485,
+              "originalPrice": 485,
+              "manipulatedOriginalPrice": 485,
+              "discountedPrice": 485,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999944.7901984664,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999936.5163145723,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "dimensionalWeight",
+            "value": "0.0"
+          },
+          {
+            "key": "shipmentAddressId",
+            "value": "319073"
+          },
+          {
+            "key": "stockCode",
+            "value": "4007"
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          },
+          {
+            "key": "returningAddressId",
+            "value": "319074"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 876911,
+          "name": "MOONLIKE STORE",
+          "officialName": "İSMAİL AY",
+          "cityName": "Eskişehir",
+          "registeredEmailAddress": "ismail.ay.1@hs01.kep.tr",
+          "taxNumber": "1060844391",
+          "sellerScore": 9.7,
+          "sellerScoreColor": "049B24",
+          "districtName": "Tepebaşı",
+          "countryName": "TÜRKİYE",
+          "address": "ERTUĞRULGAZİ MAH. ALİYA İZZETBEGOVİÇ CAD. NO:36/7",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/preview/logo.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            }
+          ],
+          "merchantBadges": [],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11749567,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "2dae44527f43835fb92b379a52554440",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 5,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 499,
+              "originalPrice": 499,
+              "manipulatedOriginalPrice": 499,
+              "discountedPrice": 499,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999942.5769600233,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999933.4678704276,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "dimensionalWeight",
+            "value": "0.0"
+          },
+          {
+            "key": "stockCode",
+            "value": ""
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      },
+      {
+        "beta": false,
+        "deliveryStartDate": "2024-03-18T01:54:14",
+        "deliveryEndDate": "2024-03-21T01:54:14",
+        "merchant": {
+          "id": 544574,
+          "name": "AR-EL TİCARET",
+          "officialName": "GÜLDEN ERDOĞAN",
+          "cityName": "Ankara",
+          "registeredEmailAddress": "gulden.erdogan@hs01.kep.tr",
+          "taxNumber": "5140319321",
+          "sellerScore": 9.2,
+          "sellerScoreColor": "049B24",
+          "districtName": "Etimesgut",
+          "countryName": "Türkiye",
+          "address": "çamlıca mahallesi 145.cadde petek iş merkezi no:10/19",
+          "logoUrl": "https://cdn.dsmcdn.com/seller-store/uploads/544574/f91ef35e-c10f-48bf-b6e3-660880b426cf.jpeg",
+          "stickers": [
+            {
+              "id": 895
+            },
+            {
+              "id": 917
+            },
+            {
+              "id": 1108
+            }
+          ],
+          "merchantBadges": [
+            {
+              "webImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.svg",
+              "mobileImageUrl": "https://cdn.dsmcdn.com/seller-store/resources/hizli-satici.png",
+              "type": "BADGE"
+            }
+          ],
+          "corporateInvoiceApplicable": true,
+          "affiliate": "TRENDYOLTR",
+          "merchantMarkers": [],
+          "componentCodes": [],
+          "locationBasedSales": false,
+          "mpAgreedDTD": true,
+          "mpEstimatedPackageDTD": true,
+          "allMpEstimatedPackageDTD": true,
+          "texApplicable": false,
+          "dropShipmentSupplier": false
+        },
+        "campaign": {
+          "id": 61,
+          "name": "Tüm Ürünler",
+          "stockTypeId": 7,
+          "startDate": "2010-01-01T17:04:05",
+          "endDate": "2061-01-01T18:04:05",
+          "tags": [],
+          "isMultipleSupplied": false
+        },
+        "promotions": [
+          {
+            "id": 11656574,
+            "name": "200 TL ve Üzeri Kargo Bedava (Satıcı Karşılar)",
+            "discountType": 7,
+            "promotionDiscountType": "Cargo",
+            "promotionEndDate": "2050-01-01T00:00:00",
+            "promotionRemainingDays": 9421,
+            "promotionRemainingHours": 22,
+            "promotionRemainingMinutes": 5,
+            "isLimitSatisfied": false,
+            "shortName": "Kargo Bedava",
+            "mocPerUser": 0,
+            "isOnlyAz": false
+          }
+        ],
+        "crossPromotions": [],
+        "variants": [
+          {
+            "listingId": "d4ffb945569aeaa3df672f29ac5f55be",
+            "fulfilmentType": "mp",
+            "itemNumber": 92881186,
+            "barcode": "868186320001511",
+            "tyBarcode": "868186320001511",
+            "quantity": 20,
+            "price": {
+              "buyingPrice": 0,
+              "sellingPrice": 500,
+              "originalPrice": 500,
+              "manipulatedOriginalPrice": 500,
+              "discountedPrice": 500,
+              "currency": "TRY",
+              "profitMargin": 0
+            },
+            "freeCargo": true,
+            "availableForClaim": true,
+            "discountedPriceInfo": "",
+            "hasCollectable": false,
+            "deci": 1,
+            "rushDeliveryDuration": 24,
+            "variantAttributes": [],
+            "scores": [
+              {
+                "key": "1",
+                "value": 999941.7980129638,
+                "campaignId": 61
+              },
+              {
+                "key": "2",
+                "value": 999932.7028134601,
+                "campaignId": 61
+              }
+            ],
+            "maxProductSaleQuantity": 20,
+            "unitInfo": {},
+            "supplementaryServices": [],
+            "groupTagIds": [],
+            "rushDeliveryMerchantListingExist": false,
+            "lowerPriceMerchantListingExist": false,
+            "hasGroupDeal": false,
+            "fastDeliveryOptions": [],
+            "overPriced": false,
+            "sellable": true,
+            "scheduledDelivery": false,
+            "isFlash": false,
+            "isWinner": true,
+            "isDiscountedListing": false
+          }
+        ],
+        "stamps": [
+          {
+            "type": "TypeB",
+            "imageUrl": "/indexing-sticker-stamp/moon/66cb9335-c0a5-4fb1-8f9b-174cfa48e1e3.png",
+            "position": "upper-left",
+            "aspectRatio": 0.4,
+            "priority": 1100
+          },
+          {
+            "type": "TypeA",
+            "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+            "position": "upper-left",
+            "aspectRatio": 0.25,
+            "priority": 1100
+          }
+        ],
+        "alternativeVariants": [],
+        "maxProductSaleQuantity": 20,
+        "cargoStartDate": "2024-03-18T01:54:14",
+        "cargoRemainingDays": 2,
+        "hasCheapestVariant": false,
+        "agreedDeliveryDays": 1,
+        "buyMorePayLessPromotions": [],
+        "customValues": [
+          {
+            "key": "dimensionalWeight",
+            "value": "0.0"
+          },
+          {
+            "key": "stockCode",
+            "value": ""
+          },
+          {
+            "key": "vatRate",
+            "value": "1"
+          },
+          {
+            "key": "deliveryCountries",
+            "value": "AZ"
+          }
+        ],
+        "searchableTags": [],
+        "freeCargo": false,
+        "isWinner": false
+      }
+    ],
+    "deliveryInformation": {
+      "isRushDelivery": true,
+      "deliveryDate": "18 - 21 Mart",
+      "fastDeliveryOptions": []
+    },
+    "cargoRemainingDays": 2,
+    "isMarketplace": true,
+    "productStamps": [
+      {
+        "type": "TypeA",
+        "imageUrl": "/marketing/datascience/automation/2020/12/9/EnCokSatan_202012091129.png",
+        "position": "upper-left",
+        "aspectRatio": 0.25,
+        "priority": 1100
+      }
+    ],
+    "hasHtmlContent": false,
+    "favoriteCount": 40611,
+    "uxLayout": "FMCG",
+    "isDigitalGood": false,
+    "isRunningOut": false,
+    "scheduledDelivery": false,
+    "ratingScore": {
+      "averageRating": 4.35,
+      "totalRatingCount": 4847,
+      "totalCommentCount": 3244
+    },
+    "showStarredAttributes": false,
+    "reviewsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/yorumlar",
+    "questionsUrl": "/bestlak/emziren-anneler-icin-damla-50-ml-p-52332268/saticiya-sor?merchantId=170528",
+    "sellerQuestionEnabled": true,
+    "sizeChartUrl": "",
+    "sizeExpectationAvailable": false,
+    "crossPromotionAward": {
+      "awardType": "AMOUNT",
+      "awardValue": 40,
+      "contentId": 805731789,
+      "merchantId": 170528
+    },
+    "rushDeliveryMerchantListingExist": false,
+    "isRushDelivery": true,
+    "lowerPriceMerchantListingExist": false,
+    "showValidFlashSales": false,
+    "showExpiredFlashSales": false,
+    "walletRebate": {
+      "minPrice": 300,
+      "maxPrice": 10000,
+      "rebateRatio": 0.01
+    },
+    "isArtWork": false,
+    "buyMorePayLessPromotions": [],
+    "filterableLabels": [
+      {
+        "id": "ae046316-9899-4274-9633-62748c162682",
+        "name": "sonotuzgunmin",
+        "displayName": "Son 30 Günün En Düşük Fiyatlı Ürünleri",
+        "visibleAgg": false
+      },
+      {
+        "id": "641c11df-6c4b-4747-942f-84792d119e51",
+        "name": "concept_iyikialmisim",
+        "displayName": " İyi Ki Almışım",
+        "visibleAgg": false
+      },
+      {
+        "id": "1013ac73-9fed-40a1-81f1-f49da31fb3fb",
+        "name": "concept_elektronikaracaksesuarlari",
+        "displayName": " Elektronik Araç Aksesuarları",
+        "visibleAgg": false
+      },
+      {
+        "id": "347c80d7-3e2e-4b26-833d-b3f7e88e4068",
+        "name": "annnebebekcoksatan",
+        "displayName": "annnebebekcoksatan",
+        "visibleAgg": false
+      },
+      {
+        "id": "fe918592-789f-42f8-aa13-883a8f363826",
+        "name": "conceptds_iyi-ki-almisim",
+        "displayName": "İyi Ki Almışım",
+        "visibleAgg": false
+      },
+      {
+        "id": "12af30f5-56d3-4726-9fa2-ddb2fc1a1db2",
+        "name": "fenomenlerin-sectikleri",
+        "displayName": "Fenomenlerin Seçtikleri",
+        "visibleAgg": false
+      },
+      {
+        "id": "57d25cc0-a1da-4687-92a9-476bff12b3d0",
+        "name": "enbegenilenler",
+        "displayName": "En Çok Beğenilen Ürünler",
+        "visibleAgg": false
+      },
+      {
+        "id": "e6dc91fe-9c9a-4685-bbf0-9df68b7fccd8",
+        "name": "360038_b11ff3f7-36d8-4779-b127-e2eef3ceec2ad38",
+        "displayName": "360038_b11ff3f7-36d8-4779-b127-e2eef3ceec2ad38",
+        "visibleAgg": false
+      },
+      {
+        "id": "b0c53a45-18ae-4f58-ae7a-a621f128d9f0",
+        "name": "encoksatansupermarket",
+        "displayName": "En Çok Satan Süpermarket Ürünleri",
+        "visibleAgg": false
+      },
+      {
+        "id": "370be812-e634-425e-8338-a4d88c8e0a7e",
+        "name": "encoksatanurunlerkadin",
+        "displayName": "En Çok Satan Kadın Ürünleri",
+        "visibleAgg": false
+      },
+      {
+        "id": "516acb35-e7b9-4c84-aaaa-deff51d5b3bf",
+        "name": "360038_cf5b80ef-092b-4fb6-9a2f-f790135e251c444",
+        "displayName": "360038_cf5b80ef-092b-4fb6-9a2f-f790135e251c444",
+        "visibleAgg": false
+      },
+      {
+        "id": "add3149c-4bdc-4910-b9c9-3f1ba047e7b5",
+        "name": "baby-influencer-",
+        "displayName": "Baby Influencer ",
+        "visibleAgg": false
+      },
+      {
+        "id": "91f34656-f4e9-4b6a-b830-6809e5facb26",
+        "name": "encoksatanurunler",
+        "displayName": "En Çok Satan Ürünler",
+        "visibleAgg": false
+      },
+      {
+        "id": "4cad9e7d-462b-4c05-b95e-3b74e0ca1611",
+        "name": "coupon-613181-2ac568ea-2b65-485a-ae63-ba4db4097df9",
+        "displayName": "Coupon-613181-2ac568ea-2b65-485a-ae63-ba4db4097df9",
+        "visibleAgg": false
+      },
+      {
+        "id": "c9f84f30-905b-4bc8-b3fa-e6776b6154a5",
+        "name": "coupon-613181-62b54648-c06d-480d-b949-f5c3f26711e8",
+        "displayName": "Coupon-613181-62b54648-c06d-480d-b949-f5c3f26711e8",
+        "visibleAgg": false
+      }
+    ],
+    "customValues": [
+      {
+        "key": "dimensionalWeight",
+        "value": "0.0"
+      },
+      {
+        "key": "stockCode",
+        "value": "8681863200015"
+      },
+      {
+        "key": "vatRate",
+        "value": "1"
+      },
+      {
+        "key": "backUpDeliveryCountries",
+        "value": "AZ"
+      },
+      {
+        "key": "deliveryCountries",
+        "value": "AZ"
+      },
+      {
+        "key": "hsCode",
+        "value": "210690980019"
+      },
+      {
+        "key": "microExport",
+        "value": "true"
+      },
+      {
+        "key": "origin",
+        "value": "TR"
+      }
+    ]
+  },
+  "htmlContent": null,
+  "recoAbDecider": "",
+  "user": {
+    "loggedIn": false,
+    "isBuyer": false,
+    "isElite": false
+  },
+  "configuration": {
+    "htmlContentCssUrl": "https://cdn.dsmcdn.com/mweb/production/main.be4f3b6e62dd77fccc78.css",
+    "htmlContentJsUrl": "https://cdn.dsmcdn.com/mweb/production/main.557ead4436e1bc2fada3.js",
+    "storefrontId": 1,
+    "channelId": "1",
+    "showPaymentMethodsAndShippings": false,
+    "showDiscountInformation": false,
+    "isDynamicRender": false,
+    "widgets": [
+      {
+        "name": "millaCampaignBanner",
+        "order": 1
+      },
+      {
+        "name": "corporateInvoice",
+        "order": 2
+      },
+      {
+        "name": "pudoBanner",
+        "order": 3
+      },
+      {
+        "name": "campaigns",
+        "order": 4
+      },
+      {
+        "name": "seller",
+        "order": 5
+      },
+      {
+        "name": "otherSellers",
+        "order": 6
+      },
+      {
+        "name": "featuredComment",
+        "order": 7
+      },
+      {
+        "name": "cta",
+        "order": 8
+      },
+      {
+        "name": "otherCategories",
+        "order": 9
+      },
+      {
+        "name": "discover",
+        "order": 10
+      }
+    ],
+    "maxWidgetCount": 3,
+    "callToActions": [
+      {
+        "name": "CTA_PRODUCT_REVIEWS",
+        "selector": ".pr-rnr-w"
+      },
+      {
+        "name": "CTA_PRODUCT_DESC",
+        "selector": ".product-desc"
+      },
+      {
+        "name": "CTA_SIMILAR_PRODUCTS",
+        "selector": ".productDetail-Similar"
+      },
+      {
+        "name": "CTA_CROSS_PRODUCTS",
+        "selector": ".productDetail-Cross"
+      }
+    ],
+    "discovers": [
+      {
+        "name": "Sen de Al!",
+        "link": "/sr/?fl=encoksatanurunler",
+        "image": "https://cdn.dsmcdn.com/ty126/web-pdp/cok_satanlar.png"
+      },
+      {
+        "name": "En Çok Sepete Eklenenler",
+        "link": "/sr?fl=encoksepeteeklenenurunler",
+        "image": "https://cdn.dsmcdn.com/ty127/web-pdp/en_cok_sepete_eklenenler.png"
+      },
+      {
+        "name": "En Beğenilenler",
+        "link": "/sr?fl=encokfavorilenenurunler",
+        "image": "https://cdn.dsmcdn.com/ty127/web-pdp/en_begenilenler.png"
+      }
+    ],
+    "discoverWidgetTitle": "Trendyol'da Keşfet!",
+    "stickNavigationItemsOrder": [
+      "SIMILAR_PRODUCTS",
+      "CROSS_PRODUCTS",
+      "OTHER_MERCHANTS",
+      "PRODUCT_REVIEWS",
+      "PRODUCT_DETAILS"
+    ],
+    "stickNavigationItems": {
+      "PRODUCT_DETAILS": {
+        "translateKey": "PRODUCT_DETAILS",
+        "selector": ".details-section[data-drroot=\"product-info\"] > .title"
+      },
+      "PRODUCT_REVIEWS": {
+        "translateKey": "PRODUCT_REVIEWS",
+        "selector": "article[data-drroot=\"product-reviews\"]"
+      },
+      "SIMILAR_PRODUCTS": {
+        "translateKey": "CTA_SIMILAR_PRODUCTS",
+        "selector": "aside[data-drroot=\"similar-products\"]"
+      },
+      "OTHER_MERCHANTS": {
+        "translateKey": "OTHER_MERCHANTS",
+        "selector": "#other-merchants-dr"
+      },
+      "CROSS_PRODUCTS": {
+        "translateKey": "CROSS_PRODUCTS_TITLE",
+        "selector": "aside[data-drroot=\"cross-recommendations\"] > .title"
+      },
+      "REPORT_CONTENT": {
+        "translateKey": "PRODUCT_DETAIL_REPORT_ABUSE_TEXT",
+        "selector": ".report-container .report-content"
+      },
+      "PRODUCT_DESCRIPTION": {
+        "translateKey": "PRODUCT_DESCRIPTION",
+        "selector": "#urun-aciklamasi > .title"
+      },
+      "SLP": {
+        "translateKey": "YOU_MAY_ALSO_INTERESTED",
+        "selector": "div[data-drroot=\"slp-reco\"] > h3"
+      },
+      "COLLECTION_RECOMMENDATION": {
+        "translateKey": "COLLECTION_RECOMMENDATION_TITLE",
+        "selector": "#collection-recommendation > .collection-recommendation-container > .title"
+      },
+      "RELATED_CATEGORIES": {
+        "translateKey": "RELATED_CATEGORIES",
+        "selector": "aside[data-drroot=\"related-categories\"]"
+      }
+    },
+    "isIgnoredVasBoutiqueForEmergency": false,
+    "isIgnoredDigitalGoodsDeliveryTextContentForEmergency": false,
+    "digitalGoodsDeliveryText": "1 saat içinde E-mail olarak gönderilecektir.",
+    "isInternational": false,
+    "culture": "tr-TR",
+    "cdnUrl": "https://cdn.dsmcdn.com",
+    "claimInfoText": "15 gün içinde ücretsiz iade.",
+    "questionsAndAnswersEnabled": true,
+    "ratingReviewEnabled": true,
+    "otherMerchantsEnabled": true,
+    "ratingReviewLikesEnabled": true,
+    "newRatingSummaryEnabled": true,
+    "redirectReviewsPageEnabled": true,
+    "languageCode": "tr",
+    "sizeCharts": [
+      [
+        "Güneş Gözlüğü",
+        "https://img-trendyol.mncdn.com/assets/banner/2018/webBanners/bedenTablosu/gozluk_beden_tablosu.jpg",
+        "Gözlük Beden Kılavuzu"
+      ],
+      [
+        "İmaj Gözlükleri",
+        "https://img-trendyol.mncdn.com/assets/banner/2018/webBanners/bedenTablosu/gozluk_beden_tablosu.jpg",
+        "Gözlük Beden Kılavuzu"
+      ],
+      [
+        "Saat",
+        "https://img-trendyol.mncdn.com/assets/banner/2018/webBanners/bedenTablosu/saatler_beden_tablosu.jpg",
+        "Saat Beden Kılavuzu"
+      ]
+    ],
+    "enhancedEcommerceEnabled": true,
+    "addReviewEnabled": false,
+    "reviewReportAbuseEnabled": true,
+    "showImageOnProductCommentsEnabled": true,
+    "crossProductsTitle": "Bu Ürünü Alanlar Bunları da Aldı",
+    "crossProductsEnabled": true,
+    "recommendationEnabled": true,
+    "productGroupEnabled": true,
+    "htmlContentEnabled": true,
+    "productAttributesEnabled": true,
+    "publishCriteriaEnabled": true,
+    "sellerAreaEnabled": true,
+    "sellerPointLowLimit": 8,
+    "sizeChartUrl": "https://cdn.dsmcdn.com/Assets/frontend-web-sizechart/tr1.html",
+    "productDetailMetaDescription": "Trendyol.com sayesinde {0} ürününe çok özel indirimlerle sahip olabilecek ve alışveriş alışkanlıklarınızı değiştireceksiniz.",
+    "siteAddress": "https://www.trendyol.com",
+    "notifyMeEnabled": true,
+    "notifyMeCount": 10,
+    "recommendationAbTestValue": "A_0-0,B_0-0,C_1-100",
+    "lastProductCountAbTestValue": "A_0-0,B_0-100",
+    "recoCardAbTestValue": "A_0-100,B_0-0",
+    "abTestingCookieName": "WebAbTesting",
+    "clientSideReviewsEnabled": false,
+    "clientSideHtmlContentEnabled": true,
+    "alternativeVariantsEnabled": true,
+    "relatedCategoryEnabled": true,
+    "relatedCategoryAbTestVariant": "C",
+    "relatedCategoryAbTestValue": "A_0-0,B_0-0,C_1-100,D_0-0,E_0-0",
+    "relatedCategoryTitleTooltipThreshold": 43,
+    "relatedCategoryCountLimit": 5,
+    "relatedCategoryImageVirtualBrandIds": [
+      33,
+      102347,
+      39,
+      141,
+      53,
+      981,
+      254,
+      204,
+      466,
+      155,
+      296,
+      586,
+      37,
+      131,
+      971,
+      178,
+      333,
+      129,
+      136,
+      49,
+      328,
+      179,
+      38,
+      101446,
+      568,
+      138,
+      859,
+      289,
+      754,
+      43,
+      128,
+      44,
+      618,
+      569,
+      535,
+      193,
+      660,
+      160,
+      303,
+      347,
+      1265,
+      658,
+      103029,
+      104699,
+      300,
+      103500,
+      103124,
+      101476,
+      103187,
+      104189,
+      208
+    ],
+    "relatedCategoryVirtualBrandImagePath": "assets/banner/2018/mobileCDN/brandFollow",
+    "defaultBrandCategoryCombinationImageUrl": "Assets/related-category-default-image.png",
+    "legalRequirementCacheDuration": 0,
+    "recoCrossCustomStampsEnabled": true,
+    "canShowSizeChartButton": true,
+    "productDetailImprovedBreadcrumbEnabled": true,
+    "sellerShippingEnabled": false,
+    "productDetailReportAbuseEnabled": true,
+    "productDetailReportAbuseItems": "[{\"id\": 0,\"value\": \"Ürünün fiyatı hatalı\"},{\"id\": 1,\"value\": \"Görsel hatalı\"},{\"id\": 2,\"value\": \"Ürünün ismi eksik/hatalı\"},{\"id\": 3,\"value\": \"Ürün özellikleri eksik ya da hatalı\"},{\"id\": 4,\"value\": \"Ürünün kategorisi hatalı\"}]",
+    "scheduledDeliveryWarningMessage": "Seçtiğiniz adrese şu anda randevulu teslimat hizmeti bulunmamaktadır. Ürünleriniz kargo ile gönderilecektir.",
+    "installmentStampAmountText": "9 TAKSİT",
+    "starredAttributesLimit": 4,
+    "sellerStoreLinkEnabled": true,
+    "featuredCardFavButtonEnabled": true,
+    "openReviewModalEnabled": false,
+    "currencySymbol": "TL",
+    "newSearchEnabled": true,
+    "stampType": "TypeA",
+    "memberGwUrl": "https://public-sdc.trendyol.com/discovery-web-membergw-service",
+    "wishListUrl": "https://public-mdc.trendyol.com/discovery-web-websfxwishlist-santral",
+    "getNotifyMePreferencesFromMemberGw": true,
+    "publicProductGwUrl": "https://public.trendyol.com/discovery-web-productgw-service",
+    "publicSdcProductGwUrl": "https://public-sdc.trendyol.com/discovery-web-productgw-service",
+    "publicMdcProductGwUrl": "https://public-mdc.trendyol.com/discovery-web-productgw-service",
+    "publicVasSfxApiUrl": "https://public.trendyol.com/discovery-web-websfxcheckoutvasservice-santral",
+    "publicMdcRecoGwUrl": "https://public-mdc.trendyol.com/discovery-web-recogw-service",
+    "productRecommendationVersion": 2,
+    "publicSdcCheckoutGwUrl": "https://public-sdc.trendyol.com/discovery-web-checkout-service",
+    "publicMdcCheckoutGwUrl": "https://public-mdc.trendyol.com/discovery-web-checkout-service",
+    "addToBasketOnCheckoutgwEnabled": false,
+    "collectionRecommendationEnabled": true,
+    "showCargoRemainingDays": true,
+    "showLinearAlternativeVariants": false,
+    "sellerStoreUrl": "https://public-sdc.trendyol.com/discovery-sellerstore-webgw-service",
+    "minSellerFollowerCount": 1000,
+    "questionCountToShow": 3,
+    "collectableCouponsEnabled": true,
+    "publicSdcCouponGwUrl": "https://public-mdc.trendyol.com/discovery-web-coupongw-service",
+    "publicMdcCouponGwUrl": "https://public-mdc.trendyol.com/discovery-web-coupongw-service",
+    "vasServiceEnabled": true,
+    "showCrossPromotions": true,
+    "showWalletRebate": false,
+    "showDigitalGoodsRebate": false,
+    "pudoBannerMoreInformationText": "Siparişindeki tüm ürünlerin Gel-Al Noktasından teslimata uygun olması gerekmektedir.",
+    "showFlashSales": true,
+    "flashSalesTimeSlots": [
+      12,
+      15,
+      18,
+      21,
+      24
+    ],
+    "publicMdcSocialGwUrl": "https://public-mdc.trendyol.com/discovery-web-socialgw-service",
+    "publicSdcSocialGwUrl": "https://public-sdc.trendyol.com/discovery-web-socialgw-service",
+    "minInstallmentAmountEnabled": true,
+    "minInstallmentAmountMinPrice": 1000,
+    "minInstallmentAmountMinInstallment": 3,
+    "stickersEnabled": true,
+    "promotionImageEnabled": true,
+    "addToCollectionEnabled": true,
+    "productGroupSantralUrl": "https://public.trendyol.com/discovery-web-websfxproductgroups-santral",
+    "promotionImageSantralUrl": "https://public.trendyol.com/discovery-web-websfxpromotionproducts-santral",
+    "publicWebSfxProductRecommendationServiceUrl": "https://public-mdc.trendyol.com/discovery-web-websfxproductrecommendation-santral",
+    "componentReadApiUrl": "http://discovery-pdp-component-read-service.external",
+    "publicWebSfxCrossPromotionServiceUrl": "https://public.trendyol.com/discovery-pdp-websfxcrosspromotions-santral",
+    "publicMdcContractServiceUrl": "https://public-mdc.trendyol.com/discovery-web-websfxcontract-santral",
+    "thresholdDayForLongTermDelivery": 15,
+    "infoForLongTermDelivery": "Ürün tedarik / üretim süresinin ardından kargolanacaktır.",
+    "infoForLongTermDeliveryBiggerThanMonth": "Bu ürün, siparişinize istinaden üretilmeye başlanacak olup üretim süresinin ardından kargoya verilecektir.",
+    "priceBoxV2Enable": true,
+    "buyMorePayLessPromotionsText": "Çok Al, Az Öde!",
+    "buyMorePayLessPromotionsEnabled": true,
+    "corporateInvoiceEnabled": true,
+    "tomorrowShippingEnabled": true,
+    "featuredPriceTooltipEnabled": true,
+    "pdpVideoEnabled": true,
+    "mediaCenterSantralUrl": "https://public-sdc.trendyol.com/discovery-web-websfxmediacenter-santral",
+    "pdpReportReasons": "[ { \"id\": \"COPYRIGHT\", \"value\": \"Telif hakkı ihlalli içerik\" }, { \"id\": \"PERSONAL_INFORMATION\", \"value\": \"Kişisel bilgi/yönlendirme\" }, { \"id\": \"NSFW\", \"value\": \"+18 içerik\" }, { \"id\": \"FORBIDDEN_WORDS\", \"value\": \"Argo& yasaklı kelime\" }, { \"id\": \"POLITICAL_SPEECH\", \"value\": \"Politik/ayrımcı söylem\" }, { \"id\": \"THIRD_PARTY_MENTION\", \"value\": \"Üçüncü şahıs/kurum bahsi\"}, {\"id\": \"ABUSIVE_SPEECH\", \"value\": \"Kötüleyici söylem\" }, {\"id\": \"INACCURATE_INFORMATION\", \"value\": \"Hatalı bilgi\" }, {\"id\": \"TECHNICAL_ISSUE\", \"value\": \"Teknik sorun\"}, {\"id\": \"INAPPROPRIATE_CONTENT\", \"value\": \"İçerik-ürün uyumsuzluğu\" }]",
+    "navigationGwUrl": "https://public-mdc.trendyol.com/discovery-web-navigation-service",
+    "basketSuggestionGwUrl": "https://public-mdc.trendyol.com/discovery-web-websfxbasketsuggestion-santral",
+    "brandBasedCustomizationEnabled": true,
+    "customizedBrandIds": [
+      "102989",
+      "101470"
+    ],
+    "lastProductNumber": 3,
+    "locationBasedSalesEnabled": true,
+    "sellerBaseSantralUrl": "https://public.trendyol.com/discovery-web-websfxsellerbase-santral",
+    "basketRecoWidgetsByUxLayout": {
+      "Electronics - devices": {
+        "A": [
+          "Vas",
+          "Cross",
+          "Similar",
+          "Basket"
+        ],
+        "B": [
+          "Vas",
+          "Cross",
+          "Similar",
+          "Basket"
+        ]
+      },
+      "Electronics - longtail": {
+        "A": [
+          "Vas",
+          "Cross",
+          "Similar",
+          "Basket"
+        ],
+        "B": [
+          "Vas",
+          "Cross",
+          "Similar",
+          "Basket"
+        ]
+      },
+      "cosmetics": {
+        "A": [
+          "Vas",
+          "Cross",
+          "Similar",
+          "Basket"
+        ],
+        "B": [
+          "Vas",
+          "Cross",
+          "Similar",
+          "Basket"
+        ]
+      },
+      "Hard Furniture": {
+        "A": [
+          "Vas",
+          "Cross",
+          "Similar",
+          "Basket"
+        ],
+        "B": [
+          "Vas",
+          "Cross",
+          "Similar",
+          "Basket"
+        ]
+      },
+      "Mobilya": {
+        "A": [
+          "Vas",
+          "Cross",
+          "Similar",
+          "Basket"
+        ],
+        "B": [
+          "Vas",
+          "Cross",
+          "Similar",
+          "Basket"
+        ]
+      },
+      "General Merchandise": {
+        "A": [
+          "Vas",
+          "Cross",
+          "Similar",
+          "Basket"
+        ],
+        "B": [
+          "MerchantBased",
+          "Vas",
+          "Cross",
+          "Similar",
+          "Basket"
+        ]
+      },
+      "FMCG": {
+        "A": [],
+        "B": [
+          "MerchantBased"
+        ]
+      },
+      "Fashion": {
+        "A": [],
+        "B": [
+          "CompleteCombine",
+          "Cross",
+          "Similar",
+          "Basket"
+        ]
+      },
+      "Ev": {
+        "A": [],
+        "B": [
+          "MerchantBased"
+        ]
+      }
+    },
+    "collectionRecommendationServiceUrl": "https://public-mdc.trendyol.com/discovery-pdp-websfxcollectionrecommendation-santral",
+    "priceHistorySantralUrl": "https://public.trendyol.com/discovery-web-websfxpricehistory-santral",
+    "priceHistoryFeatureEnabled": true,
+    "hideInitialRatingValuesFromPdpEnabled": true,
+    "ignoredCorporateUXLayouts": [
+      "Fashion"
+    ],
+    "corporateSalesUserSegmentId": "410750067",
+    "corporateSalesUserSegmentTag": "1",
+    "feedbackExposedSFXFragmentEnabled": false,
+    "slpRecoExposedSFXFragmentEnabled": false,
+    "relatedCategoriesExposedSFXFragmentEnabled": false,
+    "emergencyVasBoutiqueInformationText": "Ödeme ekranında kendi adresinizi seçebilirsiniz. Ürün seçtiğiniz adrese değil, afet bölgesine ulaştırılacaktır.",
+    "azSelectedCookie": false,
+    "azPromotionText": "Səbətdə tətbiq olunacaq!",
+    "azEligibleCookie": false,
+    "azDeliveryEnabled": true,
+    "trendyolMillaTopBannerUrl": "https://cdn.dsmcdn.com/web/production/milla-desktop-banner-for-core.png",
+    "trendyolMillaTopBannerEnabled": false,
+    "millaBannerEnabledBrandIds": [
+      1093959,
+      1262112,
+      15508,
+      1966958,
+      40
+    ],
+    "availableMillaBannerMerchantIds": [
+      968
+    ],
+    "trendyolMillaUrl": "https://www.trendyol-milla.com/",
+    "ipAddress": "176.33.66.91",
+    "token": "",
+    "checkoutVasSantralUrl": "https://public-sdc.trendyol.com/discovery-web-websfxcheckoutvas-santral",
+    "stockWarningMinLimit": 3,
+    "stockWarningMaxLimit": 10,
+    "scrollToSimilar": false,
+    "excludedVariantKeyIds": [
+      1115,
+      1116,
+      1148,
+      1149
+    ],
+    "genericRecoSliderEnabled": false,
+    "merchantBasedRecoSliderEnabled": false,
+    "publicWebSfxAttributeRecommendationServiceUrl": "https://public.trendyol.com/discovery-web-websfxprebasketgenericreco-santral",
+    "publicWebSfxBasketRecoServiceUrl": "https://public.trendyol.com/discovery-web-websfxprebasketmerchantbasedreco-santral",
+    "isCorporateUser": false,
+    "isAzNewFlowEnabled": true,
+    "inventoryCenterSantralUrl": "https://public-sdc.trendyol.com/discovery-web-websfxinventorycenter-santral",
+    "azPriceTooltipText": "Məhsul dəyərinin manat qarşılığı TCMB-dən qəbul edilən günlük dəyərlərə görə hesablanır və məlumat məqsədli olaraq təqdim edilir. Valyuta məzənnəsində gün içində baş verən dəyişikliklər dərhal ekranlarda əks olunmaya bilər.",
+    "trendyolMillaBannerUrl": "https://cdn.dsmcdn.com/web/production/milla-desktop-banner-v4.png",
+    "sfxProductCombinationSantralUrl": "https://public.trendyol.com/discovery-pdp-websfxproductcombination-santral",
+    "complementaryProductsEnabled": true,
+    "isTrendyolMilla": false,
+    "isMillaFirstOrder": false,
+    "isMillaCampaignBannerEnabled": true,
+    "productRecommendationPage": 0,
+    "productRecommendationSize": 8,
+    "energyClassLabelEnabled": true,
+    "energyClassLabelTagId": 134,
+    "energyClassLabelScopeId": 794,
+    "productNotifyFormId": 1148,
+    "energyClassLabelImgId": 1149,
+    "energyClassLabelIds": {
+      "A_G": "1199781",
+      "A_TRIPLE_PLUS_D": "297332",
+      "A_PLUS_F": "297333",
+      "A_DOUBLE_PLUS_E": "297334",
+      "A_TRIPLE_PLUS": "1770",
+      "A_DOUBLE_PLUS": "1769",
+      "A_PLUS": "1768",
+      "A": "1771",
+      "B": "1767",
+      "C": "1772",
+      "D": "22193",
+      "E": "22194",
+      "F": "22195",
+      "G": "318772"
+    },
+    "energyClassLabelCdnUrls": {
+      "A_G": {
+        "A": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_A.png",
+        "B": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_B.png",
+        "C": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_C.png",
+        "D": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_D.png",
+        "E": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_E.png",
+        "F": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_F.png",
+        "G": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A)-(G)_G.png"
+      },
+      "A_TRIPLE_PLUS_D": {
+        "A_TRIPLE_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_A+++.png",
+        "A_DOUBLE_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_A++.png",
+        "A_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_A+.png",
+        "A": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_A.png",
+        "B": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_B.png",
+        "C": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_C.png",
+        "D": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+++)-(D)_D.png"
+      },
+      "A_PLUS_F": {
+        "A_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_A+.png",
+        "A": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_A.png",
+        "B": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_B.png",
+        "C": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_C.png",
+        "D": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_D.png",
+        "E": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_E.png",
+        "F": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A+)-(F)_F.png"
+      },
+      "A_DOUBLE_PLUS_E": {
+        "A_DOUBLE_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_A++.png",
+        "A_PLUS": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_A+.png",
+        "A": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_A.png",
+        "B": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_B.png",
+        "C": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_C.png",
+        "D": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_D.png",
+        "E": "https://cdn.dsmcdn.com/mnresize/50/50/mobile/enerjietiketi/(A++)-(E)_E.png"
+      }
+    },
+    "categoryTopRankingNavEnabled": false
+  }
+}
