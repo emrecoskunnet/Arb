@@ -12,7 +12,7 @@ public abstract class InsertOnlyBaseEntity : IBaseEntity, ISignEntity, IHaveDoma
     public DateTime FromDate { get; protected set; }
     public DateTime? ThruDate { get; protected set; }
 
-    public virtual int Id { get; set; }
+    //public virtual int Id { get; set; }
 
     public virtual void Sign(ClaimsPrincipal? claimsPrincipal, DateTime? utcNow)
     {

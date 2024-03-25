@@ -23,7 +23,8 @@ public class Product: BaseEntity
         ProductCodeType = productCodeType;
         ProductCode = productCode;
     }
-    
+
+    public int ProductId { get; set; }
     public ProductCodeType ProductCodeType { get; private set; } 
     public string ProductCode { get; private set; }
 }

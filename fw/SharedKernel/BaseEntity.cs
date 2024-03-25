@@ -12,7 +12,7 @@ public abstract class BaseEntity : IBaseEntity, ISignEntity, IHaveDomainEvents
     public DateTime? Updated { get; protected set; }
     
     // ReSharper disable once UnusedAutoPropertyAccessor.Global
-    public int Id { get; set; }
+    //public int Id { get; set; }
 
     public virtual void Sign(ClaimsPrincipal? claimsPrincipal, DateTime? utcNow)
     {

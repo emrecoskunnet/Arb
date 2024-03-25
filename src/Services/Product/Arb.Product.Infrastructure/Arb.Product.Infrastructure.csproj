@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\Arb.ServiceDefaults\Arb.ServiceDefaults.csproj" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design"  />
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL"  />
+      <ProjectReference Include="..\Arb.Product.Core\Arb.Product.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="DataAccess\Migrations\" />
+    </ItemGroup>
+
+</Project>

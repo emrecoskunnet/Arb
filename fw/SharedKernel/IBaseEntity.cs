@@ -4,7 +4,7 @@ namespace ArbTech.SharedKernel;
 
 public interface IBaseEntity
 {
-    int Id { get; }
+   // int Id { get; }
 }
 
 public interface ISignEntity
